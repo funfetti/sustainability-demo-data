@@ -1,11 +1,11 @@
 # sustainability-demo-data
 Meant for use with Sustainability Cloud ootb app. Read the other [README - loading steps and order](https://github.com/funfetti/sustainability-demo-data/blob/master/README%20-%20loading%20steps%20and%20order.txt) for how to use these CSVs
 
-## Changelog 
+## Change Log 
 
-06/11/2020 by Stephanie Ho
-*Should be working with 1.9 release*
+*06/11/2020 by Stephanie Ho*
 
+* Updated for 1.9 release
 * Added a Junction Objects Load Helper xls which should help with creating Carbon Footprint Report Items and Asset Contact Items. 
 * Added an example of what an Asset Contact Item csv should look like
 
