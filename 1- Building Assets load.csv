@@ -1,0 +1,10 @@
+﻿Asset Name,Business Region,Company-Owned Asset,CBECS Division (US Only),Street Address,State,City,Country,Zip Code,Facility ID,Lease ID,Lease Expiration Date,Asset Type,Total Building Floor Area (sqft),Record Type,Description,Occupied Building Floor Area,Occupied Building Floor Area Unit
+Salesforce Tower,AMER,1,Northeast,1 Mission St,CA,San Francisco,US,94105,XXC-445111,LID-P-4493,,Office,2000000,Building,HQ Building,1500000,sqft
+140 Mission St,AMER,1,West,45 Main St,CO,Fruita,US,94106,XXC-445112,LID-P-4494,,Office,667331,Building,Developer office,500498.25,sqft
+499 Centennial Pkwy,AMER,1,South,299 14th St,MS,Jackson,US,94107,XXC-445113,LID-P-4495,,Office,981009,Building,Sales office,735756.75,m2
+940 14th St #290,AMER,0,East North Central,935 Allardy Way,MI,Harbor Springs,US,24990,XXC-445114,LID-P-4496,1/3/24,Office,1294687,Building,Sales office,971015.25,m2
+Bremington Commons,EMEA,1,,Sandyford Business Park,Leinster,Dublin,IE,65442,XXC-445115,LID-P-4497,,Other,1608365,Building,Sales office,1206273.75,sqft
+Longs Tower East,APAC,0,,2 Chome−7−2,Tokyo,Chiyoda City,JP,80027,XXC-445116,LID-P-4498,1/5/24,Other,1922043,Building,Storage,1441532.25,sqft
+WMDV Square North,AMER,0,West,49-45 Palm Circle,OR,Bend,US,33092,XXC-445117,LID-P-4499,1/6/24,Office,2235721,Building,Sales office,1676790.75,m2
+RDC-Cedar Data Center,AMER,0,West,4410 Industrial Parkway,WA,Tacoma,US,98710,RDC-332a,LID-P-4500,1/7/24,Data Center,2549399,Building,Data Center #1,1912049.25,m2
+RDC-Narita Data Center,APAC,0,,"Otemachi Building, 1-8-1 Otemachi",Chiyoda-ku,Tokyo,JP,100-0004 Tokyo,RDC-333a,LID-P-4501,1/8/24,Data Center,2863077,Building,Data Center #2,2147307.75,sqft

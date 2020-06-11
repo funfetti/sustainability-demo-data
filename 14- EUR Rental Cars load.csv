@@ -1,0 +1,711 @@
+﻿Energy Use Record Name,Carbon Footprint Name,Traveler Full Name,Rental Car Company Name,Rental Car Company Code,Record Type,Carbon Inventory Date,Report Start Date,Report End Date,Vendor-provided emissions (tCO2e),Organization Asset,Vendor Name,Expense Type,Cost Center
+Rental Car - FY19 - RecID 2101,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/2/18,1/3/18,0.19653398,Business Travel FY19 - SA,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2102,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/3/18,1/4/18,0.039882941,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2103,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/4/18,1/5/18,0.086028146,Business Travel FY19 - ANZ,Avis ,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2104,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/5/18,1/6/18,0.029305386,Business Travel FY19 - SA,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2105,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/6/18,1/7/18,0.181590551,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2106,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/7/18,1/8/18,0.197528707,Business Travel FY19 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2107,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/8/18,1/9/18,0.16627179,Business Travel FY19 - ANZ,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2108,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/9/18,1/10/18,0.167245891,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2109,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/10/18,1/11/18,0.121394111,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2110,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/11/18,1/12/18,0.057705648,Business Travel FY19 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2111,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/12/18,1/13/18,0.159115467,Business Travel FY19 - ANZ,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2112,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/13/18,1/14/18,0.044682726,Business Travel FY19 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2113,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/14/18,1/15/18,0.104552355,Business Travel FY19 - ANZ,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2114,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/15/18,1/16/18,0.138941458,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2115,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/16/18,1/17/18,0.080335681,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2116,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/17/18,1/18/18,0.207869431,Business Travel FY19 - AMER,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2117,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/18/18,1/19/18,0.011880349,Business Travel FY19 - ANZ,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2118,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/19/18,1/20/18,0.201365005,Business Travel FY19 - SA,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2119,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/20/18,1/21/18,0.150472155,Business Travel FY19 - SA,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2120,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/21/18,1/22/18,0.069208344,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2121,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/22/18,1/23/18,0.009559612,Business Travel FY19 - ANZ,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2122,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/23/18,1/24/18,0.167144427,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2123,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,1/31/18,2/1/18,0.137448468,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2124,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/1/18,2/2/18,0.158345319,Business Travel FY19 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2125,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/2/18,2/3/18,0.163471516,Business Travel FY19 - ANZ,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2126,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/3/18,2/4/18,0.008920395,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2127,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/4/18,2/5/18,0.041992012,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2128,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/5/18,2/6/18,0.060021279,Business Travel FY19 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2129,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/6/18,2/7/18,0.149383301,Business Travel FY19 - ANZ,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2130,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/7/18,2/8/18,0.020282836,Business Travel FY19 - SA,Enterprise,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2131,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/8/18,2/9/18,0.18716543,Business Travel FY19 - SA,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2132,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/9/18,2/10/18,0.184605795,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2133,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/10/18,2/11/18,0.207832143,Business Travel FY19 - ANZ,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2134,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/11/18,2/12/18,0.100006237,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2135,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/12/18,2/13/18,0.042158389,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2136,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/13/18,2/14/18,0.150720079,Business Travel FY19 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2137,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/14/18,2/15/18,0.068316493,Business Travel FY19 - SA,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2138,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/15/18,2/16/18,0.114660641,Business Travel FY19 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2139,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/16/18,2/17/18,0.169315575,Business Travel FY19 - ANZ,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2140,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/17/18,2/18/18,0.067945943,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2141,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/18/18,2/19/18,0.051026522,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2142,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/19/18,2/20/18,0.137429289,Business Travel FY19 - AMER,Enterprise,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2143,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/20/18,2/21/18,0.197592027,Business Travel FY19 - ANZ,Avis,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2144,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/21/18,2/22/18,0.074912202,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2145,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/22/18,2/23/18,0.068191175,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2146,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/23/18,2/24/18,0.14482239,Business Travel FY19 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2147,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/24/18,2/25/18,0.061273819,Business Travel FY19 - ANZ,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2148,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/25/18,2/26/18,0.062531961,Business Travel FY19 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2149,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/26/18,2/27/18,0.106300818,Business Travel FY19 - ANZ,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2150,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/27/18,2/28/18,0.029812206,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2151,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,2/28/18,3/1/18,0.206791549,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2152,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/1/18,3/2/18,0.091782904,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2153,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/2/18,3/3/18,0.118094976,Business Travel FY19 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2154,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/3/18,3/4/18,0.124376911,Business Travel FY19 - ANZ,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2155,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/4/18,3/5/18,0.152319669,Business Travel FY19 - SA,Avis,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2156,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/5/18,3/6/18,0.175414467,Business Travel FY19 - SA,Avis ,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2157,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/6/18,3/7/18,0.015744096,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2158,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/7/18,3/8/18,0.124032067,Business Travel FY19 - ANZ,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2159,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/8/18,3/9/18,0.207841106,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2160,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/9/18,3/10/18,0.055426145,Business Travel FY19 - SA,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2161,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/10/18,3/11/18,0.117887362,Business Travel FY19 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2162,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/11/18,3/12/18,0.014738876,Business Travel FY19 - ANZ,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2163,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/12/18,3/13/18,0.154653206,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2164,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/13/18,3/14/18,0.164815911,Business Travel FY19 - ANZ,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2165,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/14/18,3/15/18,0.08773924,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2166,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/15/18,3/16/18,0.180007229,Business Travel FY19 - SA,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2167,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/16/18,3/17/18,0.204035805,Business Travel FY19 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2168,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/17/18,3/18/18,0.135616806,Business Travel FY19 - ANZ,Avis ,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2169,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/18/18,3/19/18,0.168068319,Business Travel FY19 - SA,Avis ,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2170,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/19/18,3/20/18,0.10270534,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2171,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/20/18,3/21/18,0.055087989,Business Travel FY19 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2172,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/21/18,3/22/18,0.102303877,Business Travel FY19 - ANZ,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2173,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/22/18,3/23/18,0.138305169,Business Travel FY19 - SA,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2174,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/23/18,3/24/18,0.108913057,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2175,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/24/18,3/25/18,0.080058177,Business Travel FY19 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2176,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/25/18,3/26/18,0.040168725,Business Travel FY19 - ANZ,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2177,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/26/18,3/27/18,0.121186633,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2178,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/27/18,3/28/18,0.03035406,Business Travel FY19 - SA,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2179,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/28/18,3/29/18,0.156735871,Business Travel FY19 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2180,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/29/18,3/30/18,0.191428008,Business Travel FY19 - ANZ,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2181,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/30/18,3/31/18,0.13884123,Business Travel FY19 - SA,Avis ,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2182,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,3/31/18,4/1/18,0.057336641,Business Travel FY19 - SA,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2183,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/1/18,4/2/18,0.072029719,Business Travel FY19 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2184,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/2/18,4/3/18,0.019715812,Business Travel FY19 - ANZ,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2185,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/3/18,4/4/18,0.131154759,Business Travel FY19 - SA,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2186,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/4/18,4/5/18,0.044832667,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2187,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/5/18,4/6/18,0.097829724,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2188,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/6/18,4/7/18,0.126431341,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2189,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/7/18,4/8/18,0.015268753,Business Travel FY19 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2190,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/8/18,4/9/18,0.080318857,Business Travel FY19 - ANZ,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2191,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/9/18,4/10/18,0.050835349,Business Travel FY19 - SA,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2192,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/10/18,4/11/18,0.118292297,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2193,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/11/18,4/12/18,0.049278068,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2194,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/12/18,4/13/18,0.013039017,Business Travel FY19 - ANZ,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2195,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/13/18,4/14/18,0.031964287,Business Travel FY19 - SA,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2196,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/14/18,4/15/18,0.119163929,Business Travel FY19 - SA,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2197,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/15/18,4/16/18,0.139035636,Business Travel FY19 - AMER,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2198,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/16/18,4/17/18,0.154112806,Business Travel FY19 - ANZ,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2199,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/17/18,4/18/18,0.093001379,Business Travel FY19 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2200,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/18/18,4/19/18,0.175011562,Business Travel FY19 - ANZ,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2201,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/19/18,4/20/18,0.062604828,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2202,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/20/18,4/21/18,0.185896652,Business Travel FY19 - SA,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2203,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/21/18,4/22/18,0.162342238,Business Travel FY19 - SA,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2204,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/22/18,4/23/18,0.069498791,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2205,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/23/18,4/24/18,0.018537208,Business Travel FY19 - ANZ,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2206,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/24/18,4/25/18,0.157127709,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2207,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,4/25/18,4/26/18,0.002081492,Business Travel FY19 - SA,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2208,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/7/18,5/8/18,0.135294417,Business Travel FY19 - AMER,Enterprise,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2209,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/8/18,5/9/18,0.164297189,Business Travel FY19 - ANZ,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2210,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/9/18,5/10/18,0.016182288,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2211,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/10/18,5/11/18,0.099017322,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2212,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/11/18,5/12/18,0.1255661,Business Travel FY19 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2213,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/12/18,5/13/18,0.195498383,Business Travel FY19 - ANZ,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2214,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/13/18,5/14/18,0.03602406,Business Travel FY19 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2215,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/14/18,5/15/18,0.022762927,Business Travel FY19 - ANZ,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2216,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/15/18,5/16/18,0.096806526,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2217,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/16/18,5/17/18,0.027602271,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2218,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/17/18,5/18/18,0.190125234,Business Travel FY19 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2219,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/18/18,5/19/18,0.169802855,Business Travel FY19 - ANZ,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2220,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/19/18,5/20/18,0.041256403,Business Travel FY19 - SA,Enterprise,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2221,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/20/18,5/21/18,0.108946602,Business Travel FY19 - SA,Avis,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2222,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/21/18,5/22/18,0.09017494,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2223,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/22/18,5/23/18,0.006934681,Business Travel FY19 - ANZ,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2224,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/23/18,5/24/18,0.039274183,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2225,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/24/18,5/25/18,0.174103363,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2226,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/25/18,5/26/18,0.00909138,Business Travel FY19 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2227,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/26/18,5/27/18,0.118993219,Business Travel FY19 - ANZ,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2228,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/27/18,5/28/18,0.072594316,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2229,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/28/18,5/29/18,0.116710339,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2230,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/29/18,5/30/18,0.130626834,Business Travel FY19 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2231,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/30/18,5/31/18,0.178994002,Business Travel FY19 - ANZ,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2232,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,5/31/18,6/1/18,0.169573946,Business Travel FY19 - SA,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2233,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/1/18,6/2/18,0.207647324,Business Travel FY19 - SA,Avis,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2234,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/2/18,6/3/18,0.109795035,Business Travel FY19 - AMER,Avis ,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2235,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/3/18,6/4/18,0.114450536,Business Travel FY19 - ANZ,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2236,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/4/18,6/5/18,0.175787701,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2237,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/5/18,6/6/18,0.185036799,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2238,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/6/18,6/7/18,0.016603314,Business Travel FY19 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2239,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/7/18,6/8/18,0.005687719,Business Travel FY19 - SA,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2240,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/8/18,6/9/18,0.007299178,Business Travel FY19 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2241,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/9/18,6/10/18,0.079737275,Business Travel FY19 - ANZ,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2242,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/10/18,6/11/18,0.023218379,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2243,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/11/18,6/12/18,0.055105281,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2244,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/12/18,6/13/18,0.09257386,Business Travel FY19 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2245,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/13/18,6/14/18,0.104656521,Business Travel FY19 - ANZ,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2246,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/14/18,6/15/18,0.115396516,Business Travel FY19 - SA,Avis ,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2247,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/15/18,6/16/18,0.050509957,Business Travel FY19 - SA,Avis ,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2248,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/16/18,6/17/18,0.204645988,Business Travel FY19 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2249,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/17/18,6/18/18,0.104279798,Business Travel FY19 - ANZ,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2250,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/18/18,6/19/18,0.003523685,Business Travel FY19 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2251,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/19/18,6/20/18,0.209437372,Business Travel FY19 - ANZ,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2252,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/20/18,6/21/18,0.169664418,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2253,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/21/18,6/22/18,0.052483779,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2254,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/22/18,6/23/18,0.170038103,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2255,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/23/18,6/24/18,0.148135212,Business Travel FY19 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2256,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/24/18,6/25/18,0.044860498,Business Travel FY19 - ANZ,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2257,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/25/18,6/26/18,0.12194355,Business Travel FY19 - SA,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2258,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/26/18,6/27/18,0.206215451,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2259,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/27/18,6/28/18,0.113964699,Business Travel FY19 - AMER,Avis ,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2260,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/28/18,6/29/18,0.058163599,Business Travel FY19 - ANZ,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2261,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/29/18,6/30/18,0.190467404,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2262,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,6/30/18,7/1/18,0.073361334,Business Travel FY19 - SA,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2263,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/1/18,7/2/18,0.131313258,Business Travel FY19 - AMER,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2264,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/2/18,7/3/18,0.160430612,Business Travel FY19 - ANZ,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2265,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/3/18,7/4/18,0.16945595,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2266,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/4/18,7/5/18,0.076140203,Business Travel FY19 - ANZ,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2267,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/5/18,7/6/18,0.092392479,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2268,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/6/18,7/7/18,0.187327605,Business Travel FY19 - SA,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2269,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/7/18,7/8/18,0.085355264,Business Travel FY19 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2270,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/8/18,7/9/18,0.157265522,Business Travel FY19 - ANZ,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2271,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/9/18,7/10/18,0.091764909,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2272,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/10/18,7/11/18,0.115394993,Business Travel FY19 - SA,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2273,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/11/18,7/12/18,0.129555887,Business Travel FY19 - AMER,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2274,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/12/18,7/13/18,0.037699422,Business Travel FY19 - ANZ,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2275,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/13/18,7/14/18,0.026142623,Business Travel FY19 - SA,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2276,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/14/18,7/15/18,0.124760541,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2277,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/15/18,7/16/18,0.138651701,Business Travel FY19 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2278,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/16/18,7/17/18,0.128725336,Business Travel FY19 - ANZ,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2279,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/17/18,7/18/18,0.06257725,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2280,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/18/18,7/19/18,0.103054193,Business Travel FY19 - SA,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2281,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/19/18,7/20/18,0.083654483,Business Travel FY19 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2282,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/20/18,7/21/18,0.102914506,Business Travel FY19 - ANZ,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2283,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/21/18,7/22/18,0.180843571,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2284,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/22/18,7/23/18,0.069596345,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2285,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/23/18,7/24/18,0.056269608,Business Travel FY19 - AMER,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2286,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/24/18,7/25/18,0.089232891,Business Travel FY19 - ANZ,Enterprise,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2287,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/25/18,7/26/18,0.047368263,Business Travel FY19 - SA,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2288,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/26/18,7/27/18,0.107359028,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2289,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/27/18,7/28/18,0.130394782,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2290,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/28/18,7/29/18,0.125289349,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2291,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/29/18,7/30/18,0.166686896,Business Travel FY19 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2292,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/30/18,7/31/18,0.172766319,Business Travel FY19 - ANZ,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2293,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,7/31/18,8/1/18,0.106931887,Business Travel FY19 - SA,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2294,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/1/18,8/2/18,0.206008666,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2295,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/2/18,8/3/18,0.204023505,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2296,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/3/18,8/4/18,0.122470717,Business Travel FY19 - ANZ,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2297,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/4/18,8/5/18,0.03655467,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2298,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/5/18,8/6/18,0.158087715,Business Travel FY19 - SA,Enterprise,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2299,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/6/18,8/7/18,0.041169405,Business Travel FY19 - AMER,Avis,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2300,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/7/18,8/8/18,0.174014904,Business Travel FY19 - ANZ,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2301,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/8/18,8/9/18,0.164588213,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2302,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/9/18,8/10/18,0.016841725,Business Travel FY19 - ANZ,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2303,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/10/18,8/11/18,0.03768765,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2304,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/11/18,8/12/18,0.106013128,Business Travel FY19 - SA,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2305,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/12/18,8/13/18,0.104275842,Business Travel FY19 - SA,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2306,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/13/18,8/14/18,0.04129942,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2307,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/14/18,8/15/18,0.135850235,Business Travel FY19 - ANZ,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2308,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/15/18,8/16/18,0.154047063,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2309,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/16/18,8/17/18,0.202993523,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2310,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/17/18,8/18/18,0.071685212,Business Travel FY19 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2311,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/18/18,8/19/18,0.040207093,Business Travel FY19 - ANZ,Avis,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2312,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/19/18,8/20/18,0.022069155,Business Travel FY19 - SA,Avis ,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2313,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/20/18,8/21/18,0.102017027,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2314,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/21/18,8/22/18,0.081328385,Business Travel FY19 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2315,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/22/18,8/23/18,0.088831834,Business Travel FY19 - ANZ,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2316,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/23/18,8/24/18,0.001605496,Business Travel FY19 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2317,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/24/18,8/25/18,0.011542353,Business Travel FY19 - ANZ,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2318,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/25/18,8/26/18,0.042561391,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2319,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/26/18,8/27/18,0.170857227,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2320,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/27/18,8/28/18,0.00909926,Business Travel FY19 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2321,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/28/18,8/29/18,0.112529798,Business Travel FY19 - ANZ,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2322,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/29/18,8/30/18,0.05197706,Business Travel FY19 - SA,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2323,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/30/18,8/31/18,0.136901807,Business Travel FY19 - SA,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2324,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,8/31/18,9/1/18,0.115210785,Business Travel FY19 - AMER,Avis ,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2325,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/1/18,9/2/18,0.071487392,Business Travel FY19 - ANZ,Avis ,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2326,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/2/18,9/3/18,0.207411342,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2327,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/3/18,9/4/18,0.128006706,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2328,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/4/18,9/5/18,0.165338553,Business Travel FY19 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2329,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/5/18,9/6/18,0.063611918,Business Travel FY19 - ANZ,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2330,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/6/18,9/7/18,0.081166578,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2331,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/7/18,9/8/18,0.065353347,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2332,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/8/18,9/9/18,0.123435211,Business Travel FY19 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2333,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/9/18,9/10/18,0.065233282,Business Travel FY19 - ANZ,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2334,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/10/18,9/11/18,0.011755891,Business Travel FY19 - SA,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2335,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/11/18,9/12/18,0.028493268,Business Travel FY19 - SA,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2336,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/12/18,9/13/18,0.065734395,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2337,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/13/18,9/14/18,0.183923407,Business Travel FY19 - ANZ,Avis ,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2338,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/14/18,9/15/18,0.128592793,Business Travel FY19 - SA,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2339,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/15/18,9/16/18,0.147683616,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2340,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/16/18,9/17/18,0.185293312,Business Travel FY19 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2341,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/17/18,9/18/18,0.075199182,Business Travel FY19 - SA,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2342,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/18/18,9/19/18,0.036151691,Business Travel FY19 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2343,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/19/18,9/20/18,0.162718856,Business Travel FY19 - ANZ,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2344,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/20/18,9/21/18,0.120473583,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2345,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/21/18,9/22/18,0.201036084,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2346,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/22/18,9/23/18,0.047521377,Business Travel FY19 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2347,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/23/18,9/24/18,0.140099473,Business Travel FY19 - ANZ,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2348,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/24/18,9/25/18,0.181638342,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2349,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/25/18,9/26/18,0.193008159,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2350,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/26/18,9/27/18,0.115750846,Business Travel FY19 - AMER,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2351,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/27/18,9/28/18,0.088996794,Business Travel FY19 - ANZ,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2352,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/28/18,9/29/18,0.024557457,Business Travel FY19 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2353,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/29/18,9/30/18,0.209073845,Business Travel FY19 - ANZ,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2354,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,9/30/18,10/1/18,0.181837887,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2355,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/1/18,10/2/18,0.084349474,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2356,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/2/18,10/3/18,0.12555064,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2357,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/3/18,10/4/18,0.088637136,Business Travel FY19 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2358,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/4/18,10/5/18,0.132242209,Business Travel FY19 - ANZ,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2359,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/5/18,10/6/18,0.048388692,Business Travel FY19 - SA,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2360,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/6/18,10/7/18,0.142170716,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2361,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/7/18,10/8/18,0.152901455,Business Travel FY19 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2362,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/8/18,10/9/18,0.130603024,Business Travel FY19 - ANZ,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2363,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/9/18,10/10/18,0.163185783,Business Travel FY19 - SA,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2364,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/10/18,10/11/18,0.13049599,Business Travel FY19 - SA,Enterprise,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2365,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/11/18,10/12/18,0.006596387,Business Travel FY19 - AMER,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2366,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/12/18,10/13/18,0.132020772,Business Travel FY19 - ANZ,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2367,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/13/18,10/14/18,0.09314145,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2368,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/14/18,10/15/18,0.118046792,Business Travel FY19 - ANZ,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2369,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/15/18,10/16/18,0.00284373,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2370,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/16/18,10/17/18,0.198948816,Business Travel FY19 - SA,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2371,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/17/18,10/18/18,0.085859151,Business Travel FY19 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2372,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/18/18,10/19/18,0.159622802,Business Travel FY19 - ANZ,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2373,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/19/18,10/20/18,0.107585683,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2374,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/20/18,10/21/18,0.183814329,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2375,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/21/18,10/22/18,0.124638138,Business Travel FY19 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2376,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/22/18,10/23/18,0.18347476,Business Travel FY19 - ANZ,Enterprise,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2377,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/23/18,10/24/18,0.105419746,Business Travel FY19 - SA,Avis,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2378,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/24/18,10/25/18,0.047677243,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2379,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/25/18,10/26/18,0.006159673,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2380,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/26/18,10/27/18,0.073638694,Business Travel FY19 - ANZ,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2381,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/27/18,10/28/18,0.043647653,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2382,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/28/18,10/29/18,0.101038772,Business Travel FY19 - SA,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2383,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/29/18,10/30/18,0.19294,Business Travel FY19 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2384,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/30/18,10/31/18,0.114923387,Business Travel FY19 - ANZ,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2385,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,10/31/18,11/1/18,0.111204036,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2386,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/1/18,11/2/18,0.042778577,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2387,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/2/18,11/3/18,0.118386223,Business Travel FY19 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2388,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/3/18,11/4/18,0.073665579,Business Travel FY19 - ANZ,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2389,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/4/18,11/5/18,0.022985005,Business Travel FY19 - SA,Avis,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2390,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/5/18,11/6/18,0.00678979,Business Travel FY19 - SA,Avis ,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2391,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/6/18,11/7/18,0.149010996,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2392,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/7/18,11/8/18,0.207123744,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2393,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/8/18,11/9/18,0.040550636,Business Travel FY19 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2394,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/9/18,11/10/18,0.057456719,Business Travel FY19 - ANZ,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2395,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/10/18,11/11/18,0.208248898,Business Travel FY19 - SA,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2396,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/11/18,11/12/18,0.073581549,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2397,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/12/18,11/13/18,0.159552196,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2398,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/13/18,11/14/18,0.203295991,Business Travel FY19 - ANZ,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2399,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/14/18,11/15/18,0.167715134,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2400,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/15/18,11/16/18,0.062078602,Business Travel FY19 - SA,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2401,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/16/18,11/17/18,0.104935113,Business Travel FY19 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2402,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/17/18,11/18/18,0.014972727,Business Travel FY19 - ANZ,Avis ,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2403,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/18/18,11/19/18,0.127706737,Business Travel FY19 - AMER,Avis ,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2404,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/19/18,11/20/18,0.057909132,Business Travel FY19 - ANZ,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2405,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/20/18,11/21/18,0.032349759,Business Travel FY19 - SA,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2406,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/21/18,11/22/18,0.057353023,Business Travel FY19 - SA,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2407,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/22/18,11/23/18,0.007030508,Business Travel FY19 - SA,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2408,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/23/18,11/24/18,0.112199693,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2409,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/24/18,11/25/18,0.040363955,Business Travel FY19 - ANZ,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2410,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/25/18,11/26/18,0.005637923,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2411,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/26/18,11/27/18,0.008049713,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2412,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/27/18,11/28/18,0.024784648,Business Travel FY19 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2413,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/28/18,11/29/18,0.146434983,Business Travel FY19 - ANZ,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2414,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/29/18,11/30/18,0.012397778,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2415,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,11/30/18,12/1/18,0.020787292,Business Travel FY19 - SA,Avis ,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2416,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/1/18,12/2/18,0.175384155,Business Travel FY19 - AMER,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2417,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/2/18,12/3/18,0.051356209,Business Travel FY19 - ANZ,Hertz,Rental Car,General COO
+Rental Car - FY19 - RecID 2418,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/3/18,12/4/18,0.103542004,Business Travel FY19 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2419,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/4/18,12/5/18,0.075271253,Business Travel FY19 - ANZ,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2420,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/5/18,12/6/18,0.02411473,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2421,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/6/18,12/7/18,0.028332379,Business Travel FY19 - SA,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2422,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/7/18,12/8/18,0.196513878,Business Travel FY19 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2423,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/8/18,12/9/18,0.002860305,Business Travel FY19 - ANZ,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2424,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/9/18,12/10/18,0.088745562,Business Travel FY19 - SA,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2425,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/10/18,12/11/18,0.093560331,Business Travel FY19 - SA,Avis,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2426,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/11/18,12/12/18,0.035394041,Business Travel FY19 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2427,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/12/18,12/13/18,0.153955466,Business Travel FY19 - ANZ,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2428,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/13/18,12/14/18,0.135829611,Business Travel FY19 - SA,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2429,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/14/18,12/15/18,0.186423273,Business Travel FY19 - SA,Hertz,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2430,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/15/18,12/16/18,0.083710703,Business Travel FY19 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY19 - RecID 2431,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/16/18,12/17/18,0.105638849,Business Travel FY19 - ANZ,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2432,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/17/18,12/18/18,0.023718893,Business Travel FY19 - SA,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2433,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/18/18,12/19/18,0.103346269,Business Travel FY19 - SA,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2434,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/19/18,12/20/18,0.126572578,Business Travel FY19 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2435,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/20/18,12/21/18,0.18074049,Business Travel FY19 - ANZ,Hertz,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2436,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/21/18,12/22/18,0.134196317,Business Travel FY19 - SA,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2437,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/22/18,12/23/18,0.069990325,Business Travel FY19 - SA,Avis,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2438,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/23/18,12/24/18,0.115947377,Business Travel FY19 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2439,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/24/18,12/25/18,0.115989618,Business Travel FY19 - ANZ,Avis ,Rental Car,AMER Sales 
+Rental Car - FY19 - RecID 2440,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/25/18,12/26/18,0.148393645,Business Travel FY19 - SA,Hertz,Rental Car,EMEA Operations
+Rental Car - FY19 - RecID 2441,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/26/18,12/27/18,0.126833494,Business Travel FY19 - ANZ,Hertz,Rental Car,Product Marketing
+Rental Car - FY19 - RecID 2442,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/27/18,12/28/18,0.066240459,Business Travel FY19 - SA,Enterprise,Rental Car,LATAM Sales
+Rental Car - FY19 - RecID 2443,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/28/18,12/29/18,0.146455932,Business Travel FY19 - SA,Avis,Rental Car,General COO
+Rental Car - FY19 - RecID 2444,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/29/18,12/30/18,0.031167832,Business Travel FY19 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2445,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/30/18,12/31/18,0.180608907,Business Travel FY19 - ANZ,Avis ,Rental Car,General COO
+Rental Car - FY19 - RecID 2446,Rental Cars - All Org - FY19,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/19,12/31/18,1/1/20,0.180678086,Business Travel FY19 - SA,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2608,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/2/19,1/3/19,0.148127898,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2609,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/3/19,1/4/19,0.204293799,Business Travel FY20 - LATAM,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2610,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/4/19,1/5/19,0.043364494,Business Travel FY20 - ME,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2611,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/5/19,1/6/19,0.062325264,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2612,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/6/19,1/7/19,0.131596027,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2613,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/7/19,1/8/19,0.147510733,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2614,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/8/19,1/9/19,0.187043049,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2615,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/9/19,1/10/19,0.208213733,Business Travel FY20 - LATAM,Enterprise,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2616,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/10/19,1/11/19,0.125483917,Business Travel FY20 - ME,Avis,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2617,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/11/19,1/12/19,0.066014817,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2618,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/12/19,1/13/19,0.06594568,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2619,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/13/19,1/14/19,0.057715856,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2620,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/14/19,1/15/19,0.170237473,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2621,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/15/19,1/16/19,0.073002993,Business Travel FY20 - LATAM,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2622,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/16/19,1/17/19,0.035487504,Business Travel FY20 - ME,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2623,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/17/19,1/18/19,0.080962998,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2624,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/18/19,1/19/19,0.194557549,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2625,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/19/19,1/20/19,0.140309612,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2626,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/20/19,1/21/19,0.137748272,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2627,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/21/19,1/22/19,0.115445112,Business Travel FY20 - LATAM,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2628,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/22/19,1/23/19,0.121722779,Business Travel FY20 - ME,Avis,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2629,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/23/19,1/24/19,0.010480383,Business Travel FY20 - AMER,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2630,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/24/19,1/25/19,0.090557195,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2631,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/25/19,1/26/19,0.202099399,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2632,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/26/19,1/27/19,0.139197407,Business Travel FY20 - LATAM,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2633,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/27/19,1/28/19,0.003199115,Business Travel FY20 - ME,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2634,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/28/19,1/29/19,0.110559664,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2635,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/29/19,1/30/19,0.083368215,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2636,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/30/19,1/31/19,0.006740056,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2637,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,1/31/19,2/1/19,0.030058636,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2638,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/1/19,2/2/19,0.133269922,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2639,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/2/19,2/3/19,0.166914216,Business Travel FY20 - ME,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2640,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/3/19,2/4/19,0.051791873,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2641,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/4/19,2/5/19,0.053404528,Business Travel FY20 - AMER,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2642,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/5/19,2/6/19,0.047951414,Business Travel FY20 - AMER,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2643,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/6/19,2/7/19,0.205221471,Business Travel FY20 - LATAM,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2644,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/7/19,2/8/19,0.089369374,Business Travel FY20 - LATAM,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2645,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/8/19,2/9/19,0.189726602,Business Travel FY20 - ME,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2646,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/9/19,2/10/19,0.029511049,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2647,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/10/19,2/11/19,0.044531961,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2648,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/11/19,2/12/19,0.177878024,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2649,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/12/19,2/13/19,0.040985853,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2650,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/13/19,2/14/19,0.11368086,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2651,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/14/19,2/15/19,0.037918309,Business Travel FY20 - ME,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2652,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/15/19,2/16/19,0.061027463,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2653,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/16/19,2/17/19,0.031256825,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2654,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/17/19,2/18/19,0.158368119,Business Travel FY20 - AMER,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2655,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/18/19,2/19/19,0.162809794,Business Travel FY20 - LATAM,Hertz,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2656,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/19/19,2/20/19,0.18429845,Business Travel FY20 - LATAM,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2657,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/20/19,2/21/19,0.036233518,Business Travel FY20 - ME,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2658,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/21/19,2/22/19,0.118064438,Business Travel FY20 - AMER,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2659,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/22/19,2/23/19,0.009004821,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2660,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/23/19,2/24/19,0.110891902,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2661,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/24/19,2/25/19,0.034972949,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2662,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/25/19,2/26/19,0.122254481,Business Travel FY20 - ME,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2663,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/26/19,2/27/19,0.089166692,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2664,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/27/19,2/28/19,0.110706761,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2665,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,2/28/19,3/1/19,0.171427841,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2666,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/1/19,3/2/19,0.040256433,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2667,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/2/19,3/3/19,0.034976652,Business Travel FY20 - LATAM,Hertz,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2668,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/3/19,3/4/19,0.194928214,Business Travel FY20 - ME,Hertz,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2669,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/4/19,3/5/19,0.004255429,Business Travel FY20 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2670,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/5/19,3/6/19,0.110119385,Business Travel FY20 - AMER,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2671,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/6/19,3/7/19,0.144011369,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2672,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/7/19,3/8/19,0.064237136,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2673,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/8/19,3/9/19,0.144706778,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2674,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/9/19,3/10/19,0.153500312,Business Travel FY20 - ME,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2675,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/10/19,3/11/19,0.156067621,Business Travel FY20 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2676,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/11/19,3/12/19,0.100158175,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2677,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/12/19,3/13/19,0.051324949,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2678,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/13/19,3/14/19,0.037736538,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2679,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/14/19,3/15/19,0.016282539,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2680,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/15/19,3/16/19,0.196257303,Business Travel FY20 - ME,Hertz,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2681,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/16/19,3/17/19,0.084939638,Business Travel FY20 - AMER,Enterprise,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2682,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/17/19,3/18/19,0.116545524,Business Travel FY20 - AMER,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2683,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/18/19,3/19/19,0.011917462,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2684,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/19/19,3/20/19,0.204418996,Business Travel FY20 - LATAM,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2685,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/20/19,3/21/19,0.016336625,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2686,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/21/19,3/22/19,0.207907239,Business Travel FY20 - ME,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2687,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/22/19,3/23/19,0.038100964,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2688,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/23/19,3/24/19,0.119599125,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2689,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/24/19,3/25/19,0.01833843,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2690,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/25/19,3/26/19,0.031040353,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2691,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/26/19,3/27/19,0.132215491,Business Travel FY20 - ME,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2692,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/27/19,3/28/19,0.147588956,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2693,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/28/19,3/29/19,0.041222732,Business Travel FY20 - AMER,Enterprise,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2694,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/29/19,3/30/19,0.126316243,Business Travel FY20 - AMER,Avis,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2695,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/30/19,3/31/19,0.182849558,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2696,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,3/31/19,4/1/19,0.121360588,Business Travel FY20 - LATAM,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2697,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/1/19,4/2/19,0.105758774,Business Travel FY20 - ME,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2698,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/2/19,4/3/19,0.172185201,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2699,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/3/19,4/4/19,0.037483739,Business Travel FY20 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2700,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/4/19,4/5/19,0.007487869,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2701,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/5/19,4/6/19,0.107363926,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2702,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/6/19,4/7/19,0.138873547,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2703,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/7/19,4/8/19,0.06628256,Business Travel FY20 - ME,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2704,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/8/19,4/9/19,0.051082474,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2705,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/9/19,4/10/19,0.065287988,Business Travel FY20 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2706,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/10/19,4/11/19,0.109549644,Business Travel FY20 - AMER,Avis,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2707,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/11/19,4/12/19,0.184563374,Business Travel FY20 - LATAM,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2708,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/12/19,4/13/19,0.05516378,Business Travel FY20 - LATAM,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2709,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/13/19,4/14/19,0.208449032,Business Travel FY20 - ME,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2710,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/14/19,4/15/19,0.011946436,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2711,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/15/19,4/16/19,0.133245388,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2712,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/16/19,4/17/19,0.113231904,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2713,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/17/19,4/18/19,0.001279847,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2714,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/18/19,4/19/19,0.168696715,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2715,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/19/19,4/20/19,0.059660205,Business Travel FY20 - ME,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2716,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/20/19,4/21/19,0.139725366,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2717,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/21/19,4/22/19,0.043787017,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2718,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/22/19,4/23/19,0.002917356,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2719,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/23/19,4/24/19,0.113174664,Business Travel FY20 - LATAM,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2720,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/24/19,4/25/19,0.191750745,Business Travel FY20 - ME,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2721,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/25/19,4/26/19,0.001146884,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2722,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/26/19,4/27/19,0.123916851,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2723,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/27/19,4/28/19,0.164047168,Business Travel FY20 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2724,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/28/19,4/29/19,0.106920032,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2725,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/29/19,4/30/19,0.195224159,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2726,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,4/30/19,5/1/19,0.207831792,Business Travel FY20 - ME,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2727,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/1/19,5/2/19,0.017325593,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2728,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/2/19,5/3/19,0.070836529,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2729,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/3/19,5/4/19,0.188903296,Business Travel FY20 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2730,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/4/19,5/5/19,0.038309216,Business Travel FY20 - LATAM,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2731,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/5/19,5/6/19,0.092468503,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2732,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/6/19,5/7/19,0.069748768,Business Travel FY20 - ME,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2733,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/7/19,5/8/19,0.095958215,Business Travel FY20 - AMER,Hertz,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2734,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/8/19,5/9/19,0.041264524,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2735,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/9/19,5/10/19,0.153693261,Business Travel FY20 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2736,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/10/19,5/11/19,0.011010609,Business Travel FY20 - LATAM,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2737,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/11/19,5/12/19,0.1296432,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2738,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/12/19,5/13/19,0.03237923,Business Travel FY20 - ME,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2739,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/13/19,5/14/19,0.188266448,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2740,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/14/19,5/15/19,0.104413383,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2741,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/15/19,5/16/19,0.089077172,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2742,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/16/19,5/17/19,0.109961438,Business Travel FY20 - LATAM,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2743,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/17/19,5/18/19,0.159009957,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2744,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/18/19,5/19/19,0.207515276,Business Travel FY20 - ME,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2745,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/19/19,5/20/19,0.085797561,Business Travel FY20 - AMER,Hertz,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2746,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/20/19,5/21/19,0.031258287,Business Travel FY20 - AMER,Hertz,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2747,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/21/19,5/22/19,0.189064873,Business Travel FY20 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2748,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/22/19,5/23/19,0.179151717,Business Travel FY20 - LATAM,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2749,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/23/19,5/24/19,0.12923496,Business Travel FY20 - ME,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2750,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/24/19,5/25/19,0.11144238,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2751,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/25/19,5/26/19,0.068990961,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2752,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/26/19,5/27/19,0.081287128,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2753,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/27/19,5/28/19,0.176315023,Business Travel FY20 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2754,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/28/19,5/29/19,0.069533811,Business Travel FY20 - LATAM,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2755,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/29/19,5/30/19,0.051988752,Business Travel FY20 - ME,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2756,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/30/19,5/31/19,0.087107386,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2757,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,5/31/19,6/1/19,0.1362551,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2758,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/1/19,6/2/19,0.176600492,Business Travel FY20 - AMER,Hertz,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2759,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/2/19,6/3/19,0.081950916,Business Travel FY20 - LATAM,Enterprise,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2760,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/3/19,6/4/19,0.122150002,Business Travel FY20 - LATAM,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2761,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/4/19,6/5/19,0.159542684,Business Travel FY20 - ME,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2762,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/5/19,6/6/19,0.180376925,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2763,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/6/19,6/7/19,0.143924852,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2764,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/7/19,6/8/19,0.152005348,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2765,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/8/19,6/9/19,0.008182959,Business Travel FY20 - LATAM,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2766,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/9/19,6/10/19,0.061564984,Business Travel FY20 - LATAM,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2767,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/10/19,6/11/19,0.115139826,Business Travel FY20 - ME,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2768,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/11/19,6/12/19,0.178662413,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2769,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/12/19,6/13/19,0.137466957,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2770,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/13/19,6/14/19,0.110228737,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2771,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/14/19,6/15/19,0.00126805,Business Travel FY20 - LATAM,Enterprise,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2772,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/15/19,6/16/19,0.122834031,Business Travel FY20 - LATAM,Avis,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2773,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/16/19,6/17/19,0.172993133,Business Travel FY20 - ME,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2774,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/17/19,6/18/19,0.098938824,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2775,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/18/19,6/19/19,0.206096889,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2776,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/19/19,6/20/19,0.090349196,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2777,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/20/19,6/21/19,0.044219943,Business Travel FY20 - LATAM,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2778,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/21/19,6/22/19,0.209524288,Business Travel FY20 - ME,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2779,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/22/19,6/23/19,0.079856814,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2780,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/23/19,6/24/19,0.177098617,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2781,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/24/19,6/25/19,0.031878119,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2782,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/25/19,6/26/19,0.172960249,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2783,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/26/19,6/27/19,0.197024001,Business Travel FY20 - LATAM,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2784,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/27/19,6/28/19,0.201092784,Business Travel FY20 - ME,Avis,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2785,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/28/19,6/29/19,0.148038868,Business Travel FY20 - AMER,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2786,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/29/19,6/30/19,0.104713841,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2787,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,6/30/19,7/1/19,0.001228169,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2788,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/1/19,7/2/19,0.104389723,Business Travel FY20 - LATAM,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2789,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/2/19,7/3/19,0.174281977,Business Travel FY20 - LATAM,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2790,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/3/19,7/4/19,0.072887206,Business Travel FY20 - ME,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2791,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/4/19,7/5/19,0.105242801,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2792,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/5/19,7/6/19,0.164606536,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2793,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/6/19,7/7/19,0.205838174,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2794,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/7/19,7/8/19,0.035306537,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2795,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/8/19,7/9/19,0.116656709,Business Travel FY20 - LATAM,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2796,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/9/19,7/10/19,0.152868706,Business Travel FY20 - ME,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2797,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/10/19,7/11/19,0.059714176,Business Travel FY20 - AMER,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2798,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/11/19,7/12/19,0.160224638,Business Travel FY20 - AMER,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2799,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/12/19,7/13/19,0.144238836,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2800,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/13/19,7/14/19,0.043224476,Business Travel FY20 - LATAM,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2801,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/14/19,7/15/19,0.19039316,Business Travel FY20 - LATAM,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2802,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/15/19,7/16/19,0.013849033,Business Travel FY20 - ME,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2803,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/16/19,7/17/19,0.083788525,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2804,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/17/19,7/18/19,0.135171763,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2805,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/18/19,7/19/19,0.091212643,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2806,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/19/19,7/20/19,0.012718941,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2807,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/20/19,7/21/19,0.109655402,Business Travel FY20 - ME,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2808,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/21/19,7/22/19,0.04732502,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2809,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/22/19,7/23/19,0.136828162,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2810,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/23/19,7/24/19,0.049925048,Business Travel FY20 - AMER,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2811,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/24/19,7/25/19,0.011319509,Business Travel FY20 - AMER,Hertz,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2812,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/25/19,7/26/19,0.205451709,Business Travel FY20 - LATAM,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2813,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/26/19,7/27/19,0.126600692,Business Travel FY20 - ME,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2814,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/27/19,7/28/19,0.12054536,Business Travel FY20 - AMER,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2815,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/28/19,7/29/19,0.187232462,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2816,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/29/19,7/30/19,0.201202664,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2817,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/30/19,7/31/19,0.159349008,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2818,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,7/31/19,8/1/19,0.090006543,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2819,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/1/19,8/2/19,0.018971906,Business Travel FY20 - ME,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2820,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/2/19,8/3/19,0.146607434,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2821,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/3/19,8/4/19,0.206958572,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2822,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/4/19,8/5/19,0.075240433,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2823,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/5/19,8/6/19,0.094580064,Business Travel FY20 - LATAM,Hertz,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2824,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/6/19,8/7/19,0.137445909,Business Travel FY20 - LATAM,Hertz,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2825,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/7/19,8/8/19,0.201621846,Business Travel FY20 - ME,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2826,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/8/19,8/9/19,0.055680224,Business Travel FY20 - AMER,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2827,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/9/19,8/10/19,0.13564527,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2828,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/10/19,8/11/19,0.027325905,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2829,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/11/19,8/12/19,0.151659609,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2830,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/12/19,8/13/19,0.007602962,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2831,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/13/19,8/14/19,0.058281104,Business Travel FY20 - ME,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2832,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/14/19,8/15/19,0.090713255,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2833,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/15/19,8/16/19,0.132722313,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2834,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/16/19,8/17/19,0.091737515,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2835,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/17/19,8/18/19,0.129314124,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2836,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/18/19,8/19/19,0.093903275,Business Travel FY20 - ME,Hertz,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2837,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/19/19,8/20/19,0.173357634,Business Travel FY20 - AMER,Enterprise,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2838,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/20/19,8/21/19,0.015396793,Business Travel FY20 - AMER,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2839,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/21/19,8/22/19,0.023906504,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2840,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/22/19,8/23/19,0.107458104,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2841,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/23/19,8/24/19,0.018080505,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2842,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/24/19,8/25/19,0.126355892,Business Travel FY20 - ME,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2843,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/25/19,8/26/19,0.042401529,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2844,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/26/19,8/27/19,0.198463993,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2845,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/27/19,8/28/19,0.144789453,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2846,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/28/19,8/29/19,0.090324996,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2847,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/29/19,8/30/19,0.133393845,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2848,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/30/19,8/31/19,0.044032289,Business Travel FY20 - ME,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2849,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,8/31/19,9/1/19,0.151697203,Business Travel FY20 - AMER,Enterprise,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2850,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/1/19,9/2/19,0.004212518,Business Travel FY20 - AMER,Avis,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2851,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/2/19,9/3/19,0.095409885,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2852,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/3/19,9/4/19,0.179787124,Business Travel FY20 - LATAM,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2853,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/4/19,9/5/19,0.103435217,Business Travel FY20 - LATAM,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2854,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/5/19,9/6/19,0.174301262,Business Travel FY20 - ME,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2855,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/6/19,9/7/19,0.041055346,Business Travel FY20 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2856,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/7/19,9/8/19,0.209721841,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2857,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/8/19,9/9/19,0.209640187,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2858,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/9/19,9/10/19,0.103317945,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2859,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/10/19,9/11/19,0.09524179,Business Travel FY20 - LATAM,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2860,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/11/19,9/12/19,0.045750289,Business Travel FY20 - ME,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2861,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/12/19,9/13/19,0.092205125,Business Travel FY20 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2862,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/13/19,9/14/19,0.208260837,Business Travel FY20 - AMER,Avis,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2863,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/14/19,9/15/19,0.126379876,Business Travel FY20 - AMER,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2864,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/15/19,9/16/19,0.203242326,Business Travel FY20 - LATAM,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2865,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/16/19,9/17/19,0.150656488,Business Travel FY20 - ME,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2866,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/17/19,9/18/19,0.043083555,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2867,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/18/19,9/19/19,0.071323979,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2868,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/19/19,9/20/19,0.107941617,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2869,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/20/19,9/21/19,0.114252463,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2870,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/21/19,9/22/19,0.153981121,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2871,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/22/19,9/23/19,0.00344044,Business Travel FY20 - ME,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2872,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/23/19,9/24/19,0.133202154,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2873,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/24/19,9/25/19,0.069766008,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2874,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/25/19,9/26/19,0.109621873,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2875,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/26/19,9/27/19,0.105818006,Business Travel FY20 - LATAM,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2876,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/27/19,9/28/19,0.070063131,Business Travel FY20 - LATAM,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2877,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/28/19,9/29/19,0.058876602,Business Travel FY20 - ME,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2878,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/29/19,9/30/19,0.126440275,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2879,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,9/30/19,10/1/19,0.04623252,Business Travel FY20 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2880,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/1/19,10/2/19,0.09027862,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2881,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/2/19,10/3/19,0.126415877,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2882,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/3/19,10/4/19,0.195167671,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2883,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/4/19,10/5/19,0.203795988,Business Travel FY20 - ME,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2884,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/5/19,10/6/19,0.097565912,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2885,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/6/19,10/7/19,0.007813054,Business Travel FY20 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2886,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/7/19,10/8/19,0.194542465,Business Travel FY20 - AMER,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2887,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/8/19,10/9/19,0.149034667,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2888,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/9/19,10/10/19,0.076228883,Business Travel FY20 - LATAM,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2889,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/10/19,10/11/19,0.154370957,Business Travel FY20 - ME,Hertz,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2890,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/11/19,10/12/19,0.069038124,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2891,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/12/19,10/13/19,0.133600569,Business Travel FY20 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2892,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/13/19,10/14/19,0.091241537,Business Travel FY20 - AMER,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2893,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/14/19,10/15/19,0.190330743,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2894,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/15/19,10/16/19,0.105766191,Business Travel FY20 - ME,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2895,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/16/19,10/17/19,0.040374221,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2896,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/17/19,10/18/19,0.135527838,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2897,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/18/19,10/19/19,0.119992446,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2898,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/19/19,10/20/19,0.002312086,Business Travel FY20 - AMER,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2899,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/20/19,10/21/19,0.206753934,Business Travel FY20 - LATAM,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2900,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/21/19,10/22/19,0.14962463,Business Travel FY20 - ME,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2901,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/22/19,10/23/19,0.102738002,Business Travel FY20 - AMER,Hertz,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2902,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/23/19,10/24/19,0.125771467,Business Travel FY20 - AMER,Hertz,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2903,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/24/19,10/25/19,0.134324109,Business Travel FY20 - AMER,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2904,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/25/19,10/26/19,0.03941524,Business Travel FY20 - LATAM,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2905,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/26/19,10/27/19,0.097736716,Business Travel FY20 - LATAM,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2906,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/27/19,10/28/19,0.140942099,Business Travel FY20 - ME,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2907,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/28/19,10/29/19,0.032184431,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2908,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/29/19,10/30/19,0.200426227,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2909,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/30/19,10/31/19,0.02825864,Business Travel FY20 - AMER,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2910,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,10/31/19,11/1/19,0.19270726,Business Travel FY20 - LATAM,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2911,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/1/19,11/2/19,0.132996574,Business Travel FY20 - LATAM,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2912,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/2/19,11/3/19,0.043628184,Business Travel FY20 - ME,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2913,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/3/19,11/4/19,0.198674536,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2914,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/4/19,11/5/19,0.133476744,Business Travel FY20 - AMER,Hertz,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2915,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/5/19,11/6/19,0.104850166,Business Travel FY20 - AMER,Enterprise,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2916,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/6/19,11/7/19,0.200654766,Business Travel FY20 - LATAM,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2917,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/7/19,11/8/19,0.111397563,Business Travel FY20 - LATAM,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2918,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/8/19,11/9/19,0.123294163,Business Travel FY20 - ME,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2919,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/9/19,11/10/19,0.035296146,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2920,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/10/19,11/11/19,0.192660242,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2921,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/11/19,11/12/19,0.175130406,Business Travel FY20 - AMER,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2922,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/12/19,11/13/19,0.029044956,Business Travel FY20 - LATAM,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2923,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/13/19,11/14/19,0.156161895,Business Travel FY20 - ME,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2924,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/14/19,11/15/19,0.086645241,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2925,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/15/19,11/16/19,0.138440775,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2926,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/16/19,11/17/19,0.206478988,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2927,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/17/19,11/18/19,0.168339345,Business Travel FY20 - AMER,Enterprise,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2928,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/18/19,11/19/19,0.160287095,Business Travel FY20 - LATAM,Avis,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2929,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/19/19,11/20/19,0.140061335,Business Travel FY20 - ME,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2930,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/20/19,11/21/19,0.144729089,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2931,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/21/19,11/22/19,0.074508855,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2932,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/22/19,11/23/19,0.188427146,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2933,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/23/19,11/24/19,0.134599432,Business Travel FY20 - LATAM,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2934,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/24/19,11/25/19,0.113770564,Business Travel FY20 - LATAM,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2935,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/25/19,11/26/19,0.158860276,Business Travel FY20 - ME,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2936,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/26/19,11/27/19,0.115577608,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2937,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/27/19,11/28/19,0.06783906,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2938,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/28/19,11/29/19,0.088541851,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2939,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/29/19,11/30/19,0.018925095,Business Travel FY20 - LATAM,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2940,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,11/30/19,12/1/19,0.130275733,Business Travel FY20 - LATAM,Avis,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2941,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/1/19,12/2/19,0.159523761,Business Travel FY20 - ME,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2942,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/2/19,12/3/19,0.092971245,Business Travel FY20 - AMER,Avis ,Rental Car,General COO
+Rental Car - FY20 - RecID 2943,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/3/19,12/4/19,0.009576275,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2944,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/4/19,12/5/19,0.108469915,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2945,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/5/19,12/6/19,0.027971939,Business Travel FY20 - LATAM,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2946,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/6/19,12/7/19,0.103632212,Business Travel FY20 - LATAM,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2947,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/7/19,12/8/19,0.116746828,Business Travel FY20 - ME,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2948,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/8/19,12/9/19,0.070708764,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2949,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/9/19,12/10/19,0.113487772,Business Travel FY20 - AMER,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2950,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/10/19,12/11/19,0.05333413,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2951,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/11/19,12/12/19,0.078935047,Business Travel FY20 - LATAM,Enterprise,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2952,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/12/19,12/13/19,0.193891261,Business Travel FY20 - ME,Avis,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2953,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/13/19,12/14/19,0.127061288,Business Travel FY20 - AMER,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2954,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/14/19,12/15/19,0.073181069,Business Travel FY20 - AMER,Avis ,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2955,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/15/19,12/16/19,0.02913178,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2956,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/16/19,12/17/19,0.167020147,Business Travel FY20 - AMER,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2957,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/17/19,12/18/19,0.016409189,Business Travel FY20 - LATAM,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2958,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/18/19,12/19/19,0.138020116,Business Travel FY20 - ME,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2959,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/19/19,12/20/19,0.109144031,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2960,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/20/19,12/21/19,0.081561129,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2961,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/21/19,12/22/19,0.208889296,Business Travel FY20 - AMER,Hertz,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2962,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/22/19,12/23/19,0.172650642,Business Travel FY20 - LATAM,Hertz,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2963,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/23/19,12/24/19,0.144422588,Business Travel FY20 - LATAM,Enterprise,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2964,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/24/19,12/25/19,0.114648319,Business Travel FY20 - ME,Avis,Rental Car,AMER Sales 
+Rental Car - FY20 - RecID 2965,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/25/19,12/26/19,0.016437382,Business Travel FY20 - AMER,Avis ,Rental Car,EMEA Operations
+Rental Car - FY20 - RecID 2966,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/26/19,12/27/19,0.111971225,Business Travel FY20 - AMER,Avis ,Rental Car,Product Marketing
+Rental Car - FY20 - RecID 2967,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/27/19,12/28/19,0.153476481,Business Travel FY20 - AMER,Hertz,Rental Car,LATAM Sales
+Rental Car - FY20 - RecID 2968,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/28/19,12/29/19,0.185028205,Business Travel FY20 - LATAM,Hertz,Rental Car,General COO
+Rental Car - FY20 - RecID 2969,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/29/19,12/30/19,0.167867323,Business Travel FY20 - LATAM,Enterprise,Rental Car,General COO
+Rental Car - FY20 - RecID 2970,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/30/19,12/31/19,0.146910567,Business Travel FY20 - ME,Avis,Rental Car,General COO
+Rental Car - FY20 - RecID 2971,Rental Cars - All Org - FY20,"SMITH, JANE",AVIS,AVS92,Rental Car,4/15/20,12/31/19,1/1/20,0.206321979,Business Travel FY20 - AMER,Avis ,Rental Car,AMER Sales 

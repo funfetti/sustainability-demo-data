@@ -1,0 +1,18 @@
+Changelog 
+
+Data Last Updated: 06/11/2020 by Stephanie Ho
+
+EUR - Commercial Buildings
+
+* 94061 - eGRID2016 → CAMX - eGRID2018
+* General Conversion Factors → GeneralConversionFactors
+
+EUR - DC 
+
+* 80027 - eGRID2016 → RMPA - eGRID2018
+* 10025 - eGRID2016 → NYCW - eGRID2018
+* General Conversion Factors → GeneralConversionFactors
+
+EUR - Private Jet 
+
+* General Conversion Factors → GeneralConversionFactors

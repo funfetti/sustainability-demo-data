@@ -1,0 +1,6 @@
+﻿Asset Name,Business Region,Company-Owned Asset,Country,Zip Code,Facility ID,Lease ID,Lease Expiration Date,Asset Type,Vehicle ID,Record Type,Description
+Company Shuttle #2,AMER,1,US,,,,,Company Shuttle,q11-16432,Vehicle,Shuttle bus 405a
+Gulf Stream G650ER N498AW,AMER,,US,,,LID-P-4501,1/3/24,Private Jet,q12-67492,Vehicle,Private Jet #1
+Gulf Stream G550 N133PX,EMEA,,JP,,,LID-P-4502,1/3/24,Private Jet,XXP-61632,Vehicle,Private Jet #2
+Company Shuttle #4,AMER,1,FR,,,,,Fleet Vehicle,XXP-66434,Vehicle,CEO's car
+ANZ Company Cars,ANZ,,AU,,,,,Fleet Vehicle,,Vehicle,All ANZ vehicles
