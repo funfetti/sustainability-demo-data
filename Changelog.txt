@@ -1,6 +1,12 @@
-Changelog 
+# Changelog 
 
-Data Last Updated: 06/11/2020 by Stephanie Ho
+# 06/11/2020 by Stephanie Ho
+*Should be working with 1.9 release*
+
+* Added a Junction Objects Load Helper xls which should help with creating Carbon Footprint Report Items and Asset Contact Items. 
+* Added an example of what an Asset Contact Item csv should look like
+
+### Data Updated
 
 EUR - Commercial Buildings
 
