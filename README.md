@@ -3,6 +3,9 @@ Meant for use with Sustainability Cloud ootb app. Read the other [README - loadi
 
 ## Change Log:
 
+* Added a Junction Objects Load Helper xls which should help with creating Carbon Footprint Report Items and Asset Contact Items. 
+* Added an example of what an Asset Contact Item csv should look like
+
 ### Data Last Updated: 06/11/2020 by Stephanie Ho
 
 *Should be working with 1.9 release*
