@@ -1,4 +1,4 @@
-﻿Energy Use Record Name,Carbon Footprint Name,Record Type,Traveler Full Name,Report Start Date,Carbon Inventory Date,Segment Distance (Miles),Emission Factors - Scope 3,Organization Asset,Vendor Name,Cost Center
+﻿Energy Use Record Name,Carbon Footprint Name,Record Type,Traveler Full Name,Report Start Date,Carbon Inventory Date,Segment Distance,Emission Factors - Scope 3,Organization Asset,Vendor Name,Cost Center
 AT-FY20-AMER-1001,Air Travel - All Org - FY20,Air Travel,"SMITH, JANE",1/2/19,4/15/20,792.4,Scope 3 Travel Factors,Business Travel FY20 - LATAM,United Airlines,AMER Sales 
 AT-FY20-AMER-1002,Air Travel - All Org - FY20,Air Travel,"SMITH, JANE",1/3/19,4/15/20,804.6,Scope 3 Travel Factors,Business Travel FY20 - ME,United Airlines,EMEA Operations
 AT-FY20-AMER-1003,Air Travel - All Org - FY20,Air Travel,"SMITH, JANE",1/4/19,4/15/20,816.8,Scope 3 Travel Factors,Business Travel FY20 - AMER,United Airlines,Product Marketing
