@@ -1,4 +1,4 @@
-﻿Asset Name,Business Region,Company-Owned Asset,CBECS Division (US Only),Street Address,State,City,Country,Zip Code,Facility ID,Lease ID,Lease Expiration Date,Asset Type,Total Building Floor Area (sqft),Record Type,Description,Occupied Building Floor Area,Occupied Building Floor Area Unit
+﻿Asset Name,Business Region,Company-Owned Asset,CBECS Division (US Only),Street Address,State,City,Country,Postal Code,Facility ID,Lease ID,Lease Expiration Date,Asset Type,Total Building Floor Area (sqft),Record Type,Description,Occupied Building Floor Area,Occupied Building Floor Area Unit
 Salesforce Tower,AMER,1,Northeast,1 Mission St,CA,San Francisco,US,94105,XXC-445111,LID-P-4493,,Office,2000000,Building,HQ Building,1500000,sqft
 140 Mission St,AMER,1,West,45 Main St,CO,Fruita,US,94106,XXC-445112,LID-P-4494,,Office,667331,Building,Developer office,500498.25,sqft
 499 Centennial Pkwy,AMER,1,South,299 14th St,MS,Jackson,US,94107,XXC-445113,LID-P-4495,,Office,981009,Building,Sales office,735756.75,m2

@@ -1,223 +1,223 @@
-﻿Energy Use Record Name,Carbon Footprint Name,Traveler Full Name,Carbon Inventory Date,Report Start Date,Report End Date,Emission Factors - Scope 3,Number of Rooms,Number of Nights,Room Type,Hotel Name,Hotel City,Hotel Country,Organization Asset,Vendor Name,Cost Center,Record Type
-Hotel FY20 - HS5502,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/2/19,1/3/19,Scope 3 Travel Factors,1,3,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5503,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/5/19,1/6/19,Scope 3 Travel Factors,1,3,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - ME,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5504,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/8/19,1/9/19,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY20 - HS5505,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/11/19,1/12/19,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5506,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/14/19,1/15/19,Scope 3 Travel Factors,2,3,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5507,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/17/19,1/18/19,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5508,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/20/19,1/21/19,Scope 3 Travel Factors,3,3,Single,Marriott,Dublin,Germany,Business Travel FY20 - LATAM,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5509,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/23/19,1/24/19,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY20 - ME,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5510,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/26/19,1/27/19,Scope 3 Travel Factors,2,3,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY20 - HS5511,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,1/29/19,1/30/19,Scope 3 Travel Factors,1,3,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Best Western,General COO,Hotel Stay
-Hotel FY20 - HS5512,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/1/19,2/2/19,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5513,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/4/19,2/5/19,Scope 3 Travel Factors,2,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - LATAM,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5514,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/7/19,2/8/19,Scope 3 Travel Factors,1,3,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5515,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/10/19,2/11/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - ME,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5516,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/13/19,2/14/19,Scope 3 Travel Factors,2,3,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY20 - HS5517,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/16/19,2/17/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5518,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/19/19,2/20/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5519,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/22/19,2/23/19,Scope 3 Travel Factors,2,3,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5520,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/25/19,2/26/19,Scope 3 Travel Factors,1,3,Single,Marriott,Dublin,Germany,Business Travel FY20 - LATAM,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5521,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,2/28/19,3/1/19,Scope 3 Travel Factors,2,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - ME,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5522,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/3/19,3/4/19,Scope 3 Travel Factors,1,3,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY20 - HS5523,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/6/19,3/7/19,Scope 3 Travel Factors,1,3,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Best Western,General COO,Hotel Stay
-Hotel FY20 - HS5524,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/9/19,3/10/19,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5525,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/12/19,3/13/19,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - LATAM,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5526,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/15/19,3/16/19,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY20 - ME,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5527,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/18/19,3/19/19,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5528,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/21/19,3/22/19,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY20 - HS5529,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/24/19,3/25/19,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5530,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/27/19,3/28/19,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5531,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,3/30/19,3/31/19,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5532,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/2/19,4/3/19,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY20 - ME,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5533,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/5/19,4/6/19,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5534,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/8/19,4/9/19,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY20 - HS5535,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/11/19,4/12/19,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Best Western,General COO,Hotel Stay
-Hotel FY20 - HS5536,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/14/19,4/15/19,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5537,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/17/19,4/18/19,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - LATAM,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5538,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/20/19,4/21/19,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY20 - ME,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5539,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/23/19,4/24/19,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5540,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/26/19,4/27/19,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY20 - HS5541,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,4/29/19,4/30/19,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5542,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/2/19,5/3/19,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5543,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/5/19,5/6/19,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5544,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/8/19,5/9/19,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY20 - ME,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5545,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/11/19,5/12/19,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5546,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/14/19,5/15/19,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY20 - HS5547,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/17/19,5/18/19,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Best Western,General COO,Hotel Stay
-Hotel FY20 - HS5548,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/20/19,5/21/19,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY20 - LATAM,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5549,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/23/19,5/24/19,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY20 - LATAM,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5550,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/26/19,5/27/19,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY20 - ME,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5551,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,5/29/19,5/30/19,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5552,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/1/19,6/2/19,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY20 - HS5553,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/4/19,6/5/19,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5554,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/7/19,6/8/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5555,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/10/19,6/11/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5556,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/13/19,6/14/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - ME,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5557,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/16/19,6/17/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5558,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/19/19,6/20/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY20 - HS5559,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/22/19,6/23/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Best Western,General COO,Hotel Stay
-Hotel FY20 - HS5560,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/25/19,6/26/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - LATAM,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5561,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,6/28/19,6/29/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - LATAM,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5562,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/1/19,7/2/19,Scope 3 Travel Factors,2,1,Single,Hilton,Denver,United States,Business Travel FY20 - ME,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5563,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/4/19,7/5/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5564,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/7/19,7/8/19,Scope 3 Travel Factors,2,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY20 - HS5565,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/10/19,7/11/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5566,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/13/19,7/14/19,Scope 3 Travel Factors,3,1,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5567,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/16/19,7/17/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - ME,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5568,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/19/19,7/20/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5569,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/22/19,7/23/19,Scope 3 Travel Factors,4,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5570,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/25/19,7/26/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY20 - HS5571,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/28/19,7/29/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - LATAM,Best Western,General COO,Hotel Stay
-Hotel FY20 - HS5572,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,7/31/19,8/1/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5573,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/3/19,8/4/19,Scope 3 Travel Factors,2,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - ME,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5574,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/6/19,8/7/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5575,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/9/19,8/10/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5576,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/12/19,8/13/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY20 - HS5577,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/15/19,8/16/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - LATAM,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5578,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/18/19,8/19/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5579,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/21/19,8/22/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - ME,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5580,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/24/19,8/25/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5581,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/27/19,8/28/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5582,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,8/30/19,8/31/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY20 - HS5583,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/2/19,9/3/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - LATAM,Best Western,General COO,Hotel Stay
-Hotel FY20 - HS5584,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/5/19,9/6/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5585,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/8/19,9/9/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - ME,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5586,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/11/19,9/12/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5587,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/14/19,9/15/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5588,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/17/19,9/18/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY20 - HS5589,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/20/19,9/21/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - LATAM,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5590,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/23/19,9/24/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5591,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/26/19,9/27/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - ME,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5592,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,9/29/19,9/30/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5593,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/2/19,10/3/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5594,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/5/19,10/6/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY20 - HS5595,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/8/19,10/9/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - LATAM,Best Western,General COO,Hotel Stay
-Hotel FY20 - HS5596,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/11/19,10/12/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - LATAM,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5597,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/14/19,10/15/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - ME,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5598,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/17/19,10/18/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5599,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/20/19,10/21/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5600,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/23/19,10/24/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY20 - HS5601,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/26/19,10/27/19,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY20 - LATAM,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5602,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,10/29/19,10/30/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5603,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/1/19,11/2/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - ME,Hyatt,General COO,Hotel Stay
-Hotel FY20 - HS5604,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/4/19,11/5/19,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY20 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5605,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/7/19,11/8/19,Scope 3 Travel Factors,1,3,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5606,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/10/19,11/11/19,Scope 3 Travel Factors,1,3,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY20 - HS5607,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/13/19,11/14/19,Scope 3 Travel Factors,1,5,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - LATAM,Best Western,General COO,Hotel Stay
-Hotel FY20 - HS5608,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/16/19,11/17/19,Scope 3 Travel Factors,1,6,Single,Marriott,Dublin,Germany,Business Travel FY20 - ME,Hyatt,Product Marketing,Hotel Stay
-Hotel FY20 - HS5609,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/19/19,11/20/19,Scope 3 Travel Factors,1,7,Single,IHG,Mexico City,Mexico,Business Travel FY20 - AMER,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY20 - HS5610,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/22/19,11/23/19,Scope 3 Travel Factors,1,8,Single,Hilton,Denver,United States,Business Travel FY20 - AMER,Marriott,AMER Sales ,Hotel Stay
-Hotel FY20 - HS5611,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/25/19,11/26/19,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY20 - AMER,Marriott,EMEA Operations,Hotel Stay
-Hotel FY20 - HS5612,Hotel Stays - All Org - FY20,"SMITH, JANE",4/15/20,11/28/19,11/29/19,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY20 - LATAM,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5502,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/2/18,1/3/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5503,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/5/18,1/6/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5504,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/8/18,1/9/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - ANZ,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5505,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/11/18,1/12/18,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY19 - SA,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5506,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/14/18,1/15/18,Scope 3 Travel Factors,2,1,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5507,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/17/18,1/18/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY19 - HS5508,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/20/18,1/21/18,Scope 3 Travel Factors,3,3,Single,Marriott,Dublin,Germany,Business Travel FY19 - ANZ,Best Western,General COO,Hotel Stay
-Hotel FY19 - HS5509,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/23/18,1/24/18,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY19 - SA,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5510,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/26/18,1/27/18,Scope 3 Travel Factors,2,1,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5511,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,1/29/18,1/30/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Marriott,AMER Sales ,Hotel Stay
-Hotel FY19 - HS5512,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/1/18,2/2/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - ANZ,Marriott,EMEA Operations,Hotel Stay
-Hotel FY19 - HS5513,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/4/18,2/5/18,Scope 3 Travel Factors,2,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5514,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/7/18,2/8/18,Scope 3 Travel Factors,1,3,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5515,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/10/18,2/11/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5516,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/13/18,2/14/18,Scope 3 Travel Factors,2,3,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5517,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/16/18,2/17/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5518,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/19/18,2/20/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5519,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/22/18,2/23/18,Scope 3 Travel Factors,2,3,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Kimpton,General COO,Hotel Stay
-Hotel FY19 - HS5520,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/25/18,2/26/18,Scope 3 Travel Factors,1,3,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Best Western,General COO,Hotel Stay
-Hotel FY19 - HS5521,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,2/28/18,3/1/18,Scope 3 Travel Factors,2,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5522,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/3/18,3/4/18,Scope 3 Travel Factors,1,3,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5523,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/6/18,3/7/18,Scope 3 Travel Factors,1,3,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Marriott,AMER Sales ,Hotel Stay
-Hotel FY19 - HS5524,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/9/18,3/10/18,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Marriott,EMEA Operations,Hotel Stay
-Hotel FY19 - HS5525,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/12/18,3/13/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5526,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/15/18,3/16/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5527,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/18/18,3/19/18,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5528,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/21/18,3/22/18,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5529,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/24/18,3/25/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5530,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/27/18,3/28/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5531,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,3/30/18,3/31/18,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY19 - SA,Kimpton,General COO,Hotel Stay
-Hotel FY19 - HS5532,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/2/18,4/3/18,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Best Western,General COO,Hotel Stay
-Hotel FY19 - HS5533,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/5/18,4/6/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5534,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/8/18,4/9/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - ANZ,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5535,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/11/18,4/12/18,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY19 - SA,Marriott,AMER Sales ,Hotel Stay
-Hotel FY19 - HS5536,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/14/18,4/15/18,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Marriott,EMEA Operations,Hotel Stay
-Hotel FY19 - HS5537,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/17/18,4/18/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5538,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/20/18,4/21/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5539,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/23/18,4/24/18,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5540,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/26/18,4/27/18,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5541,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,4/29/18,4/30/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5542,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/2/18,5/3/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5543,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/5/18,5/6/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY19 - HS5544,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/8/18,5/9/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Best Western,General COO,Hotel Stay
-Hotel FY19 - HS5545,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/11/18,5/12/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5546,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/14/18,5/15/18,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5547,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/17/18,5/18/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Marriott,AMER Sales ,Hotel Stay
-Hotel FY19 - HS5548,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/20/18,5/21/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - ANZ,Marriott,EMEA Operations,Hotel Stay
-Hotel FY19 - HS5549,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/23/18,5/24/18,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5550,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/26/18,5/27/18,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5551,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,5/29/18,5/30/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5552,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/1/18,6/2/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5553,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/4/18,6/5/18,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5554,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/7/18,6/8/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5555,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/10/18,6/11/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Kimpton,General COO,Hotel Stay
-Hotel FY19 - HS5556,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/13/18,6/14/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Best Western,General COO,Hotel Stay
-Hotel FY19 - HS5557,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/16/18,6/17/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5558,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/19/18,6/20/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5559,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/22/18,6/23/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Marriott,AMER Sales ,Hotel Stay
-Hotel FY19 - HS5560,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/25/18,6/26/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Marriott,EMEA Operations,Hotel Stay
-Hotel FY19 - HS5561,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,6/28/18,6/29/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5562,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/1/18,7/2/18,Scope 3 Travel Factors,2,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5563,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/4/18,7/5/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5564,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/7/18,7/8/18,Scope 3 Travel Factors,2,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5565,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/10/18,7/11/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5566,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/13/18,7/14/18,Scope 3 Travel Factors,3,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5567,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/16/18,7/17/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Kimpton,General COO,Hotel Stay
-Hotel FY19 - HS5568,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/19/18,7/20/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Best Western,General COO,Hotel Stay
-Hotel FY19 - HS5569,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/22/18,7/23/18,Scope 3 Travel Factors,4,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5570,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/25/18,7/26/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - ANZ,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5571,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/28/18,7/29/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - SA,Marriott,AMER Sales ,Hotel Stay
-Hotel FY19 - HS5572,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,7/31/18,8/1/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Marriott,EMEA Operations,Hotel Stay
-Hotel FY19 - HS5573,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/3/18,8/4/18,Scope 3 Travel Factors,2,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5574,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/6/18,8/7/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5575,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/9/18,8/10/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5576,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/12/18,8/13/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5577,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/15/18,8/16/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5578,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/18/18,8/19/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5579,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/21/18,8/22/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Kimpton,General COO,Hotel Stay
-Hotel FY19 - HS5580,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/24/18,8/25/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Best Western,General COO,Hotel Stay
-Hotel FY19 - HS5581,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/27/18,8/28/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5582,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,8/30/18,8/31/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5583,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/2/18,9/3/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Marriott,AMER Sales ,Hotel Stay
-Hotel FY19 - HS5584,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/5/18,9/6/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Marriott,EMEA Operations,Hotel Stay
-Hotel FY19 - HS5585,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/8/18,9/9/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5586,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/11/18,9/12/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5587,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/14/18,9/15/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5588,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/17/18,9/18/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5589,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/20/18,9/21/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5590,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/23/18,9/24/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5591,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/26/18,9/27/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Kimpton,General COO,Hotel Stay
-Hotel FY19 - HS5592,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,9/29/18,9/30/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Best Western,General COO,Hotel Stay
-Hotel FY19 - HS5593,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/2/18,10/3/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5594,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/5/18,10/6/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5595,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/8/18,10/9/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Marriott,AMER Sales ,Hotel Stay
-Hotel FY19 - HS5596,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/11/18,10/12/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Marriott,EMEA Operations,Hotel Stay
-Hotel FY19 - HS5597,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/14/18,10/15/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5598,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/17/18,10/18/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5599,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/20/18,10/21/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5600,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/23/18,10/24/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5601,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/26/18,10/27/18,Scope 3 Travel Factors,1,1,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5602,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,10/29/18,10/30/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5603,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/1/18,11/2/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Kimpton,General COO,Hotel Stay
-Hotel FY19 - HS5604,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/4/18,11/5/18,Scope 3 Travel Factors,1,1,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Best Western,General COO,Hotel Stay
-Hotel FY19 - HS5605,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/7/18,11/8/18,Scope 3 Travel Factors,1,3,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Hyatt,Product Marketing,Hotel Stay
-Hotel FY19 - HS5606,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/10/18,11/11/18,Scope 3 Travel Factors,1,3,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Kimpton,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5607,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/13/18,11/14/18,Scope 3 Travel Factors,1,2,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - SA,Marriott,AMER Sales ,Hotel Stay
-Hotel FY19 - HS5608,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/16/18,11/17/18,Scope 3 Travel Factors,1,2,Single,Marriott,Dublin,Germany,Business Travel FY19 - SA,Marriott,EMEA Operations,Hotel Stay
-Hotel FY19 - HS5609,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/19/18,11/20/18,Scope 3 Travel Factors,1,2,Single,IHG,Mexico City,Mexico,Business Travel FY19 - AMER,Marriott,Product Marketing,Hotel Stay
-Hotel FY19 - HS5610,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/22/18,11/23/18,Scope 3 Travel Factors,1,2,Single,Hilton,Denver,United States,Business Travel FY19 - SA,Hyatt,LATAM Sales,Hotel Stay
-Hotel FY19 - HS5611,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/25/18,11/26/18,Scope 3 Travel Factors,1,1,Single,Hyatt,Tokyo,Japan,Business Travel FY19 - AMER,Hyatt,General COO,Hotel Stay
-Hotel FY19 - HS5612,Hotel Stays - All Org - FY19,"SMITH, JANE",4/15/19,11/28/18,11/29/18,Scope 3 Travel Factors,1,1,Single,Hilton,Denver,United States,Business Travel FY19 - ANZ,Hyatt,General COO,Hotel Stay
+Energy Use Record Name,Carbon Footprint Name,Organization Asset,Carbon Inventory Date,Traveler Full Name,Report Start Date,Report End Date,Vendor Name,Cost Center,Number of Rooms,Room Type,Number of Nights,Hotel Name,Hotel City,Hotel Country,Emission Factors - Scope 3,Record Type
+Hotel FY20 - HS5502,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",1/2/19,1/3/19,Marriott,AMER Sales,1,Single,3,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5503,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",1/5/19,1/6/19,Marriott,EMEA Operations,1,Single,3,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5504,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",1/8/19,1/9/19,Marriott,Product Marketing,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5505,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",1/11/19,1/12/19,Hyatt,LATAM Sales,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5506,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",1/14/19,1/15/19,Hyatt,General COO,2,Single,3,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5507,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",1/17/19,1/18/19,Hyatt,General COO,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5508,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",1/20/19,1/21/19,Hyatt,Product Marketing,3,Single,3,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5509,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",1/23/19,1/24/19,Hyatt,LATAM Sales,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5510,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",1/26/19,1/27/19,Kimpton,General COO,2,Single,3,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5511,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",1/29/19,1/30/19,Best Western,General COO,1,Single,3,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5512,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",2/1/19,2/2/19,Hyatt,Product Marketing,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5513,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",2/4/19,2/5/19,Kimpton,LATAM Sales,2,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5514,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",2/7/19,2/8/19,Marriott,AMER Sales,1,Single,3,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5515,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",2/10/19,2/11/19,Marriott,EMEA Operations,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5516,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",2/13/19,2/14/19,Marriott,Product Marketing,2,Single,3,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5517,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",2/16/19,2/17/19,Hyatt,LATAM Sales,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5518,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",2/19/19,2/20/19,Hyatt,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5519,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",2/22/19,2/23/19,Hyatt,General COO,2,Single,3,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5520,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",2/25/19,2/26/19,Hyatt,Product Marketing,1,Single,3,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5521,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",2/28/19,3/1/19,Hyatt,LATAM Sales,2,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5522,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",3/3/19,3/4/19,Kimpton,General COO,1,Single,3,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5523,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",3/6/19,3/7/19,Best Western,General COO,1,Single,3,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5524,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",3/9/19,3/10/19,Hyatt,Product Marketing,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5525,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",3/12/19,3/13/19,Kimpton,LATAM Sales,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5526,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",3/15/19,3/16/19,Marriott,AMER Sales,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5527,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",3/18/19,3/19/19,Marriott,EMEA Operations,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5528,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",3/21/19,3/22/19,Marriott,Product Marketing,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5529,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",3/24/19,3/25/19,Hyatt,LATAM Sales,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5530,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",3/27/19,3/28/19,Hyatt,General COO,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5531,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",3/30/19,3/31/19,Hyatt,General COO,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5532,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",4/2/19,4/3/19,Hyatt,Product Marketing,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5533,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",4/5/19,4/6/19,Hyatt,LATAM Sales,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5534,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",4/8/19,4/9/19,Kimpton,General COO,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5535,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",4/11/19,4/12/19,Best Western,General COO,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5536,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",4/14/19,4/15/19,Hyatt,Product Marketing,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5537,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",4/17/19,4/18/19,Kimpton,LATAM Sales,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5538,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",4/20/19,4/21/19,Marriott,AMER Sales,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5539,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",4/23/19,4/24/19,Marriott,EMEA Operations,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5540,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",4/26/19,4/27/19,Marriott,Product Marketing,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5541,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",4/29/19,4/30/19,Hyatt,LATAM Sales,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5542,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",5/2/19,5/3/19,Hyatt,General COO,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5543,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",5/5/19,5/6/19,Hyatt,General COO,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5544,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",5/8/19,5/9/19,Hyatt,Product Marketing,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5545,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",5/11/19,5/12/19,Hyatt,LATAM Sales,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5546,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",5/14/19,5/15/19,Kimpton,General COO,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5547,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",5/17/19,5/18/19,Best Western,General COO,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5548,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",5/20/19,5/21/19,Hyatt,Product Marketing,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5549,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",5/23/19,5/24/19,Kimpton,LATAM Sales,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5550,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",5/26/19,5/27/19,Marriott,AMER Sales,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5551,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",5/29/19,5/30/19,Marriott,EMEA Operations,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5552,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",6/1/19,6/2/19,Marriott,Product Marketing,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5553,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",6/4/19,6/5/19,Hyatt,LATAM Sales,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5554,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",6/7/19,6/8/19,Hyatt,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5555,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",6/10/19,6/11/19,Hyatt,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5556,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",6/13/19,6/14/19,Hyatt,Product Marketing,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5557,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",6/16/19,6/17/19,Hyatt,LATAM Sales,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5558,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",6/19/19,6/20/19,Kimpton,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5559,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",6/22/19,6/23/19,Best Western,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5560,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",6/25/19,6/26/19,Hyatt,Product Marketing,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5561,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",6/28/19,6/29/19,Kimpton,LATAM Sales,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5562,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",7/1/19,7/2/19,Marriott,AMER Sales,2,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5563,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",7/4/19,7/5/19,Marriott,EMEA Operations,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5564,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",7/7/19,7/8/19,Marriott,Product Marketing,2,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5565,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",7/10/19,7/11/19,Hyatt,LATAM Sales,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5566,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",7/13/19,7/14/19,Hyatt,General COO,3,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5567,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",7/16/19,7/17/19,Hyatt,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5568,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",7/19/19,7/20/19,Hyatt,Product Marketing,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5569,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",7/22/19,7/23/19,Hyatt,LATAM Sales,4,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5570,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",7/25/19,7/26/19,Kimpton,General COO,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5571,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",7/28/19,7/29/19,Best Western,General COO,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5572,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",7/31/19,8/1/19,Hyatt,Product Marketing,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5573,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",8/3/19,8/4/19,Kimpton,LATAM Sales,2,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5574,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",8/6/19,8/7/19,Marriott,AMER Sales,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5575,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",8/9/19,8/10/19,Marriott,EMEA Operations,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5576,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",8/12/19,8/13/19,Marriott,Product Marketing,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5577,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",8/15/19,8/16/19,Hyatt,LATAM Sales,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5578,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",8/18/19,8/19/19,Hyatt,General COO,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5579,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",8/21/19,8/22/19,Hyatt,General COO,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5580,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",8/24/19,8/25/19,Hyatt,Product Marketing,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5581,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",8/27/19,8/28/19,Hyatt,LATAM Sales,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5582,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",8/30/19,8/31/19,Kimpton,General COO,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5583,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",9/2/19,9/3/19,Best Western,General COO,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5584,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",9/5/19,9/6/19,Hyatt,Product Marketing,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5585,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",9/8/19,9/9/19,Kimpton,LATAM Sales,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5586,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",9/11/19,9/12/19,Marriott,AMER Sales,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5587,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",9/14/19,9/15/19,Marriott,EMEA Operations,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5588,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",9/17/19,9/18/19,Marriott,Product Marketing,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5589,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",9/20/19,9/21/19,Hyatt,LATAM Sales,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5590,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",9/23/19,9/24/19,Hyatt,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5591,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",9/26/19,9/27/19,Hyatt,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5592,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",9/29/19,9/30/19,Hyatt,Product Marketing,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5593,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",10/2/19,10/3/19,Hyatt,LATAM Sales,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5594,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",10/5/19,10/6/19,Kimpton,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5595,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",10/8/19,10/9/19,Best Western,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5596,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",10/11/19,10/12/19,Hyatt,Product Marketing,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5597,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",10/14/19,10/15/19,Kimpton,LATAM Sales,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5598,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",10/17/19,10/18/19,Marriott,AMER Sales,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5599,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",10/20/19,10/21/19,Marriott,EMEA Operations,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5600,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",10/23/19,10/24/19,Marriott,Product Marketing,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5601,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",10/26/19,10/27/19,Hyatt,LATAM Sales,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5602,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",10/29/19,10/30/19,Hyatt,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5603,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",11/1/19,11/2/19,Hyatt,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5604,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",11/4/19,11/5/19,Hyatt,Product Marketing,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5605,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",11/7/19,11/8/19,Hyatt,LATAM Sales,1,Single,3,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5606,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",11/10/19,11/11/19,Kimpton,General COO,1,Single,3,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5607,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",11/13/19,11/14/19,Best Western,General COO,1,Single,5,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5608,Hotel Stays - All Org - FY20,Business Travel FY20 - ME,4/15/20,"SMITH, JANE",11/16/19,11/17/19,Hyatt,Product Marketing,1,Single,6,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY20 - HS5609,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",11/19/19,11/20/19,Kimpton,LATAM Sales,1,Single,7,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY20 - HS5610,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",11/22/19,11/23/19,Marriott,AMER Sales,1,Single,8,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY20 - HS5611,Hotel Stays - All Org - FY20,Business Travel FY20 - AMER,4/15/20,"SMITH, JANE",11/25/19,11/26/19,Marriott,EMEA Operations,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY20 - HS5612,Hotel Stays - All Org - FY20,Business Travel FY20 - LATAM,4/15/20,"SMITH, JANE",11/28/19,11/29/19,Marriott,Product Marketing,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5502,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",1/2/18,1/3/18,Hyatt,LATAM Sales,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5503,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",1/5/18,1/6/18,Hyatt,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5504,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",1/8/18,1/9/18,Hyatt,General COO,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5505,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",1/11/18,1/12/18,Hyatt,Product Marketing,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5506,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",1/14/18,1/15/18,Hyatt,LATAM Sales,2,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5507,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",1/17/18,1/18/18,Kimpton,General COO,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5508,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",1/20/18,1/21/18,Best Western,General COO,3,Single,3,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5509,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",1/23/18,1/24/18,Hyatt,Product Marketing,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5510,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",1/26/18,1/27/18,Kimpton,LATAM Sales,2,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5511,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",1/29/18,1/30/18,Marriott,AMER Sales,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5512,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",2/1/18,2/2/18,Marriott,EMEA Operations,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5513,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",2/4/18,2/5/18,Marriott,Product Marketing,2,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5514,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",2/7/18,2/8/18,Hyatt,LATAM Sales,1,Single,3,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5515,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",2/10/18,2/11/18,Hyatt,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5516,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",2/13/18,2/14/18,Hyatt,General COO,2,Single,3,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5517,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",2/16/18,2/17/18,Hyatt,Product Marketing,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5518,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",2/19/18,2/20/18,Hyatt,LATAM Sales,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5519,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",2/22/18,2/23/18,Kimpton,General COO,2,Single,3,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5520,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",2/25/18,2/26/18,Best Western,General COO,1,Single,3,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5521,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",2/28/18,3/1/18,Hyatt,Product Marketing,2,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5522,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",3/3/18,3/4/18,Kimpton,LATAM Sales,1,Single,3,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5523,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",3/6/18,3/7/18,Marriott,AMER Sales,1,Single,3,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5524,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",3/9/18,3/10/18,Marriott,EMEA Operations,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5525,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",3/12/18,3/13/18,Marriott,Product Marketing,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5526,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",3/15/18,3/16/18,Hyatt,LATAM Sales,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5527,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",3/18/18,3/19/18,Hyatt,General COO,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5528,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",3/21/18,3/22/18,Hyatt,General COO,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5529,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",3/24/18,3/25/18,Hyatt,Product Marketing,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5530,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",3/27/18,3/28/18,Hyatt,LATAM Sales,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5531,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",3/30/18,3/31/18,Kimpton,General COO,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5532,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",4/2/18,4/3/18,Best Western,General COO,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5533,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",4/5/18,4/6/18,Hyatt,Product Marketing,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5534,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",4/8/18,4/9/18,Kimpton,LATAM Sales,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5535,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",4/11/18,4/12/18,Marriott,AMER Sales,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5536,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",4/14/18,4/15/18,Marriott,EMEA Operations,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5537,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",4/17/18,4/18/18,Marriott,Product Marketing,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5538,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",4/20/18,4/21/18,Hyatt,LATAM Sales,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5539,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",4/23/18,4/24/18,Hyatt,General COO,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5540,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",4/26/18,4/27/18,Hyatt,General COO,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5541,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",4/29/18,4/30/18,Hyatt,Product Marketing,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5542,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",5/2/18,5/3/18,Hyatt,LATAM Sales,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5543,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",5/5/18,5/6/18,Kimpton,General COO,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5544,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",5/8/18,5/9/18,Best Western,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5545,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",5/11/18,5/12/18,Hyatt,Product Marketing,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5546,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",5/14/18,5/15/18,Kimpton,LATAM Sales,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5547,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",5/17/18,5/18/18,Marriott,AMER Sales,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5548,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",5/20/18,5/21/18,Marriott,EMEA Operations,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5549,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",5/23/18,5/24/18,Marriott,Product Marketing,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5550,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",5/26/18,5/27/18,Hyatt,LATAM Sales,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5551,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",5/29/18,5/30/18,Hyatt,General COO,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5552,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",6/1/18,6/2/18,Hyatt,General COO,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5553,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",6/4/18,6/5/18,Hyatt,Product Marketing,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5554,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",6/7/18,6/8/18,Hyatt,LATAM Sales,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5555,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",6/10/18,6/11/18,Kimpton,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5556,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",6/13/18,6/14/18,Best Western,General COO,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5557,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",6/16/18,6/17/18,Hyatt,Product Marketing,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5558,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",6/19/18,6/20/18,Kimpton,LATAM Sales,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5559,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",6/22/18,6/23/18,Marriott,AMER Sales,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5560,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",6/25/18,6/26/18,Marriott,EMEA Operations,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5561,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",6/28/18,6/29/18,Marriott,Product Marketing,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5562,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",7/1/18,7/2/18,Hyatt,LATAM Sales,2,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5563,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",7/4/18,7/5/18,Hyatt,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5564,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",7/7/18,7/8/18,Hyatt,General COO,2,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5565,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",7/10/18,7/11/18,Hyatt,Product Marketing,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5566,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",7/13/18,7/14/18,Hyatt,LATAM Sales,3,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5567,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",7/16/18,7/17/18,Kimpton,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5568,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",7/19/18,7/20/18,Best Western,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5569,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",7/22/18,7/23/18,Hyatt,Product Marketing,4,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5570,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",7/25/18,7/26/18,Kimpton,LATAM Sales,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5571,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",7/28/18,7/29/18,Marriott,AMER Sales,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5572,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",7/31/18,8/1/18,Marriott,EMEA Operations,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5573,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",8/3/18,8/4/18,Marriott,Product Marketing,2,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5574,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",8/6/18,8/7/18,Hyatt,LATAM Sales,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5575,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",8/9/18,8/10/18,Hyatt,General COO,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5576,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",8/12/18,8/13/18,Hyatt,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5577,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",8/15/18,8/16/18,Hyatt,Product Marketing,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5578,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",8/18/18,8/19/18,Hyatt,LATAM Sales,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5579,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",8/21/18,8/22/18,Kimpton,General COO,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5580,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",8/24/18,8/25/18,Best Western,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5581,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",8/27/18,8/28/18,Hyatt,Product Marketing,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5582,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",8/30/18,8/31/18,Kimpton,LATAM Sales,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5583,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",9/2/18,9/3/18,Marriott,AMER Sales,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5584,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",9/5/18,9/6/18,Marriott,EMEA Operations,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5585,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",9/8/18,9/9/18,Marriott,Product Marketing,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5586,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",9/11/18,9/12/18,Hyatt,LATAM Sales,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5587,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",9/14/18,9/15/18,Hyatt,General COO,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5588,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",9/17/18,9/18/18,Hyatt,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5589,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",9/20/18,9/21/18,Hyatt,Product Marketing,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5590,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",9/23/18,9/24/18,Hyatt,LATAM Sales,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5591,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",9/26/18,9/27/18,Kimpton,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5592,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",9/29/18,9/30/18,Best Western,General COO,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5593,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",10/2/18,10/3/18,Hyatt,Product Marketing,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5594,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",10/5/18,10/6/18,Kimpton,LATAM Sales,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5595,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",10/8/18,10/9/18,Marriott,AMER Sales,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5596,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",10/11/18,10/12/18,Marriott,EMEA Operations,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5597,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",10/14/18,10/15/18,Marriott,Product Marketing,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5598,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",10/17/18,10/18/18,Hyatt,LATAM Sales,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5599,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",10/20/18,10/21/18,Hyatt,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5600,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",10/23/18,10/24/18,Hyatt,General COO,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5601,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",10/26/18,10/27/18,Hyatt,Product Marketing,1,Single,1,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5602,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",10/29/18,10/30/18,Hyatt,LATAM Sales,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5603,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",11/1/18,11/2/18,Kimpton,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5604,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",11/4/18,11/5/18,Best Western,General COO,1,Single,1,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5605,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",11/7/18,11/8/18,Hyatt,Product Marketing,1,Single,3,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5606,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",11/10/18,11/11/18,Kimpton,LATAM Sales,1,Single,3,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5607,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",11/13/18,11/14/18,Marriott,AMER Sales,1,Single,2,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5608,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",11/16/18,11/17/18,Marriott,EMEA Operations,1,Single,2,Marriott,Dublin,Germany,Germany,Hotel Stay
+Hotel FY19 - HS5609,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",11/19/18,11/20/18,Marriott,Product Marketing,1,Single,2,IHG,Mexico City,Mexico,Mexico,Hotel Stay
+Hotel FY19 - HS5610,Hotel Stays - All Org - FY19,Business Travel FY19 - SA,4/15/19,"SMITH, JANE",11/22/18,11/23/18,Hyatt,LATAM Sales,1,Single,2,Hilton,Denver,United States,United States,Hotel Stay
+Hotel FY19 - HS5611,Hotel Stays - All Org - FY19,Business Travel FY19 - AMER,4/15/19,"SMITH, JANE",11/25/18,11/26/18,Hyatt,General COO,1,Single,1,Hyatt,Tokyo,Japan,Japan,Hotel Stay
+Hotel FY19 - HS5612,Hotel Stays - All Org - FY19,Business Travel FY19 - ANZ,4/15/19,"SMITH, JANE",11/28/18,11/29/18,Hyatt,General COO,1,Single,1,Hilton,Denver,United States,United States,Hotel Stay

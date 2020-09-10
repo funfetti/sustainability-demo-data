@@ -1,10 +1,10 @@
-﻿Carbon Footprint Name,Record Type,Allocation Status,Audit Approval Status,Stage,Reporting Year,Reporting Date,Extrapolation Status,Travel Type
-Air Travel - All Org - FY20,Travel,Complete,Pending Approval,Validation,2020,4/15/21,Complete,Air Travel
-Air Travel - All Org - FY19,Travel,Complete,Approved,Finished,2019,4/15/20,Complete,Air Travel
-Air Travel - All Org - FY18,Travel,Complete,Approved,Finished,2018,4/15/19,Complete,Air Travel
-Ground Travel - All Org - FY20,Travel,Complete,Pending Approval,Validation,2020,4/15/21,Complete,Ground Travel
-Ground Travel - All Org - FY19,Travel,Complete,Approved,Finished,2019,4/15/20,Complete,Ground Travel
-Hotel Stays - All Org - FY19,Travel,Complete,Approved,Finished,2019,4/15/20,Complete,Hotel Stays
-Hotel Stays - All Org - FY20,Travel,Complete,Pending Approval,Validation,2020,4/15/21,Complete,Hotel Stays
-Rental Cars - All Org - FY19,Travel,Complete,Approved,Finished,2019,4/15/20,Complete,Rental Cars
-Rental Cars - All Org - FY20,Travel,Complete,Pending Approval,Validation,2020,4/15/21,Complete,Rental Cars
+Carbon Footprint Name,Record Type,Audit Approval Status,Stage,Reporting Year,Reporting Date,Travel Type
+Air Travel - All Org - FY20,Travel,Pending Approval,Validation,2020,4/15/21,Air Travel
+Air Travel - All Org - FY19,Travel,Approved,Finished,2019,4/15/20,Air Travel
+Air Travel - All Org - FY18,Travel,Approved,Finished,2018,4/15/19,Air Travel
+Ground Travel - All Org - FY20,Travel,Pending Approval,Validation,2020,4/15/21,Ground Travel
+Ground Travel - All Org - FY19,Travel,Approved,Finished,2019,4/15/20,Ground Travel
+Hotel Stays - All Org - FY19,Travel,Approved,Finished,2019,4/15/20,Hotel Stays
+Hotel Stays - All Org - FY20,Travel,Pending Approval,Validation,2020,4/15/21,Hotel Stays
+Rental Cars - All Org - FY19,Travel,Approved,Finished,2019,4/15/20,Rental Cars
+Rental Cars - All Org - FY20,Travel,Pending Approval,Validation,2020,4/15/21,Rental Cars
