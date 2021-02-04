@@ -1,12 +1,13 @@
-Carbon Footprint Name,Organization Asset,Allocation Status,Audit Approval Status,Record Type,Stage,Reporting Year,Reporting Date,Energy Intensity Reference Data,Extrapolation Status
+Carbon Footprint Name,Organization Asset,Allocation Status,Audit Approval Status,Record Type,Stage,Reporting Year,Reporting Date,Energy Intensity Reference Data,Data Gap Status
 Bremington Commons FY19,Bremington Commons,Complete,Approved,Commercial Building,Finished,2019,4/15/20,Energy Intensity Reference Data,Complete
 Bremington Commons FY20,Bremington Commons,Complete,Approved,Commercial Building,Finished,2020,4/15/21,Energy Intensity Reference Data,Complete
-Bremington Commons FY21,Bremington Commons,Needs Allocation,Pending Approval,Commercial Building,Interpolation,2021,4/15/22,Energy Intensity Reference Data,Needs Extrapolation
+Bremington Commons FY21,Bremington Commons,Needs Allocation,Pending Approval,Commercial Building,Validation,2021,4/15/22,Energy Intensity Reference Data,Pending Review
 Salesforce Tower FY19,Salesforce Tower,Complete,Approved,Commercial Building,Finished,2019,4/15/20,Energy Intensity Reference Data,Complete
 Salesforce Tower FY20,Salesforce Tower,Complete,Approved,Commercial Building,Finished,2020,4/15/21,Energy Intensity Reference Data,Complete
-Salesforce Tower FY21,Salesforce Tower,Needs Allocation,Pending Approval,Commercial Building,Renewable Energy Allocation,2021,4/15/22,Energy Intensity Reference Data,Needs Extrapolation
-140 Mission St FY21,140 Mission St,Needs Allocation,Pending Approval,Commercial Building,Data Collection,2021,4/15/22,Energy Intensity Reference Data,Needs Extrapolation
-499 Centennial Pkwy FY21,499 Centennial Pkwy,Complete,Pending Approval,Commercial Building,Data Collection,2021,4/15/22,Energy Intensity Reference Data,Needs Extrapolation
-940 14th St #290 FY21,940 14th St #290,Complete,Pending Approval,Commercial Building,Validation,2021,4/15/22,Energy Intensity Reference Data,Needs Extrapolation
-Longs Tower East FY21,Longs Tower East,Needs Allocation,Pending Approval,Commercial Building,External Audit,2021,4/15/22,Energy Intensity Reference Data,Needs Extrapolation
-WMDV Square North FY21,WMDV Square North,Needs Allocation,Pending Approval,Commercial Building,External Audit,2021,4/15/22,Energy Intensity Reference Data,Needs Extrapolation
+Salesforce Tower FY21,Salesforce Tower,Needs Allocation,Pending Approval,Commercial Building,Renewable Energy Allocation,2021,4/15/22,Energy Intensity Reference Data,Complete
+140 Mission St FY21,140 Mission St,Needs Allocation,Pending Approval,Commercial Building,Data Collection,2021,4/15/22,Energy Intensity Reference Data,Pending Review
+499 Centennial Pkwy FY21,499 Centennial Pkwy,Complete,Pending Approval,Commercial Building,Data Collection,2021,4/15/22,Energy Intensity Reference Data,Pending Review
+940 14th St #290 FY21,940 14th St #290,Complete,Pending Approval,Commercial Building,Validation,2021,4/15/22,Energy Intensity Reference Data,Pending Review
+Longs Tower East FY21,Longs Tower East,Needs Allocation,Pending Approval,Commercial Building,External Audit,2021,4/15/22,Energy Intensity Reference Data,Complete
+WMDV Square North FY21,WMDV Square North,Needs Allocation,Pending Approval,Commercial Building,External Audit,2021,4/15/22,Energy Intensity Reference Data,Complete
+Wolf Point Plaza FY21,Wolf Point Plaza,Needs Allocation,Pending Approval,Commercial Building,Data Gap Filling,2021,4/15/22,Energy Intensity Reference Data,Data Gaps Identified
