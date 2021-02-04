@@ -1,5 +1,31 @@
 # Detailed Changelog 
 
+# 2/3/2020 by Stephanie Ho
+* Generally updated all data to work with FY22 org (thanks Surabhi!) ex. FY20 -> FY21
+* Added a new asset (Wolf Point Plaza) that demos Data Gap Filling nicely
+* Added a leading 0 to filenames so it sorts correctly in github
+* Added a new file 21- optional CF PriorYear.csv so you can chain together the "Prior Year Carbon Footprint" on Carbon Footprints. I also added it to Junction Objects Load Helper.
+### Data Updated 
+Building Assets
+* Added Wolf Point Plaza 
+
+General Assets
+* Time shifted 1 year (ex. FY20 -> FY21)
+
+EUR - Comm Building 
+* Time shifted 1 year
+* Added EURs for Wolf Point Plaza
+
+All other EURs 
+* Time shifted 1 year
+
+All Carbon Footprints
+* Time shifted 1 year
+* Data - Stage picklist: "Interpolation" -> "Data Gap Filling"
+* Column - Extrapolation Status -> Data Gap Status
+### Junction Objects Load Helper
+* Time shifted 1 year
+* Added new sheet PriorYear <date> and instructions on how to use it.
 # 9/10/2020 by Stephanie Ho 
 * Updated to work with 1.11
 
